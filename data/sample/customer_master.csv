@@ -1,0 +1,977 @@
+customer_id,customer_name,customer_age,gender,customer_segment,customer_city,customer_state,customer_country,region,customer_postal_code,customer_acquisition_cost
+CUST-000032,Randall Mclaughlin,61,Male,Consumer,South Brittany,Florida,USA,South,51466,8.72
+CUST-000043,Troy Cohen,45,Male,VIP,Mckinneymouth,Illinois,USA,Central,64555,75.16
+CUST-000052,Amanda Carlson,66,Female,Consumer,West Tiffany,Illinois,USA,Central,38857,13.77
+CUST-000069,Chad Reyes,39,Male,Premium,North Lawrenceport,Illinois,USA,Central,18474,75.28
+CUST-000076,Nancy Harris,32,Male,Consumer,Lake Peter,Texas,USA,South,85195,67.05
+CUST-000105,Ryan Brandt,54,Female,Consumer,West Jose,Georgia,USA,South,41789,25.11
+CUST-000135,Logan Mann,29,Male,Premium,Jeffreyshire,Wales,UK,West,23484,30.7
+CUST-000152,Thomas Jacobson,31,Male,Business,Christopherside,North Carolina,USA,South,51294,44.24
+CUST-000155,Heather Davis,24,Female,Consumer,Lindseychester,Ohio,USA,Central,99651,57.63
+CUST-000164,Ashley Aguilar,55,Male,Premium,North Annaville,New York,USA,East,37999,15.15
+CUST-000177,Frank Kline,47,Male,Consumer,West Anthonyton,Ajman,UAE,North,21853,66.08
+CUST-000199,Kristen Chan,30,Male,Premium,New Ryan,Florida,USA,South,56784,20.58
+CUST-000203,Larry Garcia,68,Female,Consumer,Garyton,Northern Ireland,UK,West,39586,19.61
+CUST-000222,Mary Vaughn,51,Male,Consumer,Marshburgh,Bavaria,Germany,South,15319,37.7
+CUST-000225,Cheryl Huffman,41,Male,Consumer,South Samantha,Bavaria,Germany,South,15303,53.7
+CUST-000227,Miranda Warren,74,Female,Premium,Lake Morgan,Ohio,USA,Central,68540,54.73
+CUST-000229,Michael Rhodes,58,Female,Consumer,Hernandezside,Georgia,USA,South,80836,72.3
+CUST-000255,Frances Thomas,20,Female,Consumer,Lake Kristenborough,Alberta,Canada,Central,99276,78.32
+CUST-000299,Jessica Carter,63,Male,Consumer,Masonland,North Carolina,USA,South,52508,43.8
+CUST-000321,Wesley Wilson,26,Male,Consumer,Hopkinsside,New York,USA,East,658,15.38
+CUST-000330,Timothy Hinton,52,Male,Premium,Kimfurt,Ohio,USA,Central,96941,19.47
+CUST-000385,Alan Weeks,53,Female,Consumer,Evanschester,Sharjah,UAE,North,38894,5.72
+CUST-000420,Christian Lewis,72,Female,Consumer,North Jessicaside,Pennsylvania,USA,East,51007,78.99
+CUST-000432,Christopher Ross,30,Male,Premium,Lake Chris,Wales,UK,West,43059,73.63
+CUST-000435,Sarah Martinez,59,Female,Consumer,Lake Denise,Michigan,USA,Central,79445,38.7
+CUST-000440,Thomas Mcgee,66,Female,Consumer,Bakerfurt,Ohio,USA,Central,66275,7.58
+CUST-000450,Holly Smith,44,Male,Consumer,West Georgeport,Florida,USA,South,26806,6.62
+CUST-000452,Paul Nelson,48,Male,Premium,Michelletown,Hesse,Germany,Central,38838,49.13
+CUST-000471,Thomas Martin,23,Female,Premium,North Ricky,Northern Ireland,UK,West,2468,57.75
+CUST-000500,Alicia Carney,22,Male,Business,Sarashire,Ajman,UAE,North,65564,17.28
+CUST-000505,Kristy Parker,35,Male,Consumer,Katieville,Texas,USA,South,90394,50.84
+CUST-000511,Mary Morgan,67,Male,Premium,Simsburgh,North Carolina,USA,South,75340,71.15
+CUST-000535,Amanda Morales,71,Male,Premium,Allenbury,Ohio,USA,Central,72321,65.82
+CUST-000538,Elaine Miller,29,Female,Consumer,Wilsonmouth,New York,USA,East,43148,77.62
+CUST-000540,Carmen Jennings,41,Non-Binary,Consumer,Murphyton,Michigan,USA,Central,12367,78.71
+CUST-000545,Melanie Phelps,68,Female,Premium,West Rachelton,Pennsylvania,USA,East,611,11.28
+CUST-000582,Donna Jones,35,Male,Consumer,Livingstonview,Scotland,UK,North,56466,67.73
+CUST-000598,Matthew Morgan,51,Female,Premium,South Davidhaven,Scotland,UK,North,60580,50.5
+CUST-000622,Patricia Jones,56,Female,Premium,Brownchester,Georgia,USA,South,19498,74.06
+CUST-000625,Heather Brown,46,Male,Premium,North Melissa,Hesse,Germany,Central,60607,42.76
+CUST-000649,Thomas Fisher,51,Female,Consumer,West Jaimetown,England,UK,North,30952,61.22
+CUST-000673,Jacob James,39,Male,Consumer,Williamsport,Texas,USA,South,77205,19.33
+CUST-000674,Kevin Hansen,44,Male,Premium,Walkertown,California,USA,West,20689,51.22
+CUST-000720,Ryan Edwards,28,Female,Consumer,Freemanville,Pennsylvania,USA,East,75061,64.13
+CUST-000761,Carl Fisher,33,Male,VIP,Shawntown,Ontario,Canada,East,7329,31.16
+CUST-000765,Laura Flores,52,Female,Premium,Russoberg,Illinois,USA,Central,34668,23.65
+CUST-000797,Justin Yates,38,Female,VIP,New Stephaniefurt,Michigan,USA,Central,12631,43.87
+CUST-000834,Christina Martinez,29,Female,Premium,South Jonathan,Ohio,USA,Central,45107,10.1
+CUST-000855,Marilyn Torres,20,Male,Premium,Benitezville,Pennsylvania,USA,East,96443,19.72
+CUST-000983,Isabella Dawson,67,Male,Premium,Peterburgh,Scotland,UK,North,54902,12.18
+CUST-001004,Lisa Santos,20,Male,Consumer,Bradleyborough,Florida,USA,South,54384,48.86
+CUST-001029,Sarah Martin,56,Male,Premium,Kruegerstad,North Carolina,USA,South,67296,6.19
+CUST-001073,Crystal Lewis,68,Non-Binary,Premium,Janetfurt,Baden-Württemberg,Germany,South,8209,76.64
+CUST-001179,Grace Lopez,69,Male,Premium,North Ronald,Texas,USA,South,60141,10.63
+CUST-001247,Thomas Barker,67,Female,Consumer,Lake Samuel,Western Australia,Australia,West,91320,23.12
+CUST-001392,Kim Carroll,56,Male,Consumer,West Jacobhaven,Illinois,USA,Central,65535,73.31
+CUST-001413,Diane Douglas,23,Female,Consumer,West Shawnaborough,California,USA,West,65372,60.32
+CUST-001445,Antonio Barber,58,Female,Consumer,Farmerland,England,UK,North,10634,46.7
+CUST-001468,Sheila Green,64,Male,Business,East Elizabethberg,North Carolina,USA,South,13080,63.8
+CUST-001487,Daniel Terry,45,Male,Business,Port Nicole,Alberta,Canada,Central,64618,66.55
+CUST-001521,Alejandro Butler,62,Female,Consumer,South Carlos,California,USA,West,1235,25.21
+CUST-001639,Kenneth Wallace,44,Female,VIP,Lyonsshire,Texas,USA,South,36584,10.27
+CUST-001704,Scott Manning,57,Male,Premium,South Brandon,Illinois,USA,Central,57982,8.55
+CUST-001739,Kimberly Gonzalez,51,Female,Premium,Aliciaberg,Northern Ireland,UK,West,74279,57.9
+CUST-001772,Jacob Reyes,66,Female,Consumer,Melissafort,North Rhine,Germany,West,46454,16.33
+CUST-001799,Victor Lopez,74,Male,Consumer,Gonzalezstad,Scotland,UK,North,85334,28.36
+CUST-001814,Kathryn Carter,45,Female,Premium,Powellfurt,New York,USA,East,11299,60.45
+CUST-001825,Bradley Thomas,27,Female,Premium,New Elizabeth,Georgia,USA,South,55923,63.38
+CUST-001853,Jennifer Harris,40,Female,Premium,Lake James,Western Australia,Australia,West,26007,45.99
+CUST-001875,Michael King,19,Male,Consumer,Tinatown,California,USA,West,64675,55.57
+CUST-001938,Karen Vasquez,28,Female,Consumer,New Robertfurt,Texas,USA,South,91541,45.28
+CUST-001962,Bryan Holt,22,Female,Premium,North Raymond,Scotland,UK,North,49970,37.41
+CUST-001991,John Rivas,48,Male,Consumer,South Noahmouth,California,USA,West,32138,7.36
+CUST-002041,James Jensen,32,Male,Consumer,North Ashley,New York,USA,East,80996,51.05
+CUST-002045,Jason Garcia,45,Female,Consumer,South Jennifermouth,Georgia,USA,South,20212,25.3
+CUST-002071,Garrett Hodge,24,Female,VIP,Port Benjamin,Abu Dhabi,UAE,South,10123,30.68
+CUST-002076,Rebecca King,21,Male,Consumer,Owensmouth,England,UK,North,49203,43.36
+CUST-002131,Cheyenne Salazar,23,Female,Premium,Carrilloton,Texas,USA,South,60132,20.56
+CUST-002143,Jonathan Martin,31,Female,Consumer,Harrisburgh,Scotland,UK,North,47874,47.36
+CUST-002146,Kimberly Bauer,73,Male,Consumer,Tammyville,Ohio,USA,Central,59652,21.01
+CUST-002160,Sheila Ortega,62,Male,Consumer,Lake Jonathan,Georgia,USA,South,50253,51.59
+CUST-002181,Alexander Rodriguez,37,Male,Consumer,South Drew,New York,USA,East,95438,9.85
+CUST-002197,Jennifer Coleman,53,Male,Business,Brendafurt,Gujarat,India,West,88297,19.03
+CUST-002248,James Robbins,42,Female,Consumer,New Deborah,Florida,USA,South,52891,49.43
+CUST-002270,David Harper,72,Male,Consumer,East Haleymouth,Texas,USA,South,62402,72.79
+CUST-002319,Jessica Walker,34,Male,VIP,Josephfort,Ohio,USA,Central,58257,46.38
+CUST-002337,April Beltran,73,Female,Premium,New Amy,Texas,USA,South,96779,66.23
+CUST-002347,Ashley Oconnor,64,Male,Consumer,North Tina,Pennsylvania,USA,East,18686,23.74
+CUST-002363,Miguel Dominguez,61,Female,Consumer,Lake Patriciastad,Georgia,USA,South,99534,33.06
+CUST-002370,Susan Bradshaw,69,Male,Premium,West Richardview,Scotland,UK,North,10935,79.02
+CUST-002415,Deanna Thompson,30,Male,Consumer,Mcdanielborough,Ohio,USA,Central,58552,66.98
+CUST-002451,Jennifer Franco,53,Female,VIP,Port Judytown,Michigan,USA,Central,28631,19.31
+CUST-002465,Sonya King,73,Female,Consumer,East Maryview,Texas,USA,South,61022,62.89
+CUST-002475,Erica Griffin,40,Female,Consumer,Carlsonfort,Ohio,USA,Central,4391,51.27
+CUST-002493,Donald Lewis,42,Male,Consumer,New Stevenside,Florida,USA,South,22983,36.49
+CUST-002498,Lisa York,60,Female,Consumer,Shannonport,Texas,USA,South,70638,45.89
+CUST-002514,Douglas Zavala,61,Male,Premium,Bethanybury,Wales,UK,West,83117,24.43
+CUST-002527,Joy Mosley,25,Male,VIP,Port Zacharyview,Georgia,USA,South,78429,78.0
+CUST-002577,Jonathan Santiago,22,Male,Consumer,Josechester,England,UK,North,7511,18.69
+CUST-002588,Anthony Mora,60,Male,Premium,New Jason,Pennsylvania,USA,East,23098,7.22
+CUST-002591,Allen Holt,55,Male,Consumer,Murrayfurt,Sharjah,UAE,North,15523,9.32
+CUST-002656,Samantha Miller,53,Female,VIP,West Jasonburgh,Georgia,USA,South,45986,40.65
+CUST-002692,Teresa Jackson,49,Male,Consumer,South Angelaton,Michigan,USA,Central,93408,30.62
+CUST-002704,Jennifer Jimenez,44,Male,Consumer,Lake Nancy,North Carolina,USA,South,32443,50.32
+CUST-002707,Jennifer Larson,21,Male,Consumer,Bryantstad,Ohio,USA,Central,52652,79.65
+CUST-002722,Derrick Poole,68,Male,Consumer,Shelleyside,Pennsylvania,USA,East,91651,70.95
+CUST-002748,Michael Montes,56,Male,Consumer,Jocelynburgh,Victoria,Australia,South,57248,69.74
+CUST-002754,Debbie Williams,51,Male,Consumer,Lisamouth,Florida,USA,South,70887,25.08
+CUST-002776,Andre Rodriguez,62,Non-Binary,Premium,Jonberg,Georgia,USA,South,45865,8.78
+CUST-002790,Manuel Payne,19,Non-Binary,Consumer,Lindaton,England,UK,North,63043,67.0
+CUST-002793,Kyle Everett,54,Female,Consumer,Port Jennifer,Pennsylvania,USA,East,81805,55.44
+CUST-002805,Randall Parker,26,Female,Premium,Crawfordport,Georgia,USA,South,75526,33.94
+CUST-002839,Michelle James,51,Female,Consumer,East Olivialand,Texas,USA,South,85256,16.23
+CUST-002845,Virginia Hanson,27,Male,Consumer,North Derek,England,UK,North,18122,42.86
+CUST-002850,Lisa Wright,28,Male,Consumer,East Joshuastad,California,USA,West,28105,70.98
+CUST-002873,Theresa Phillips,34,Male,Premium,Wileytown,Texas,USA,South,40442,30.19
+CUST-002877,Jonathan Miles,61,Male,Consumer,South Ronald,England,UK,North,86737,12.2
+CUST-002892,Victoria Evans,31,Male,Consumer,North Kathrynville,Texas,USA,South,70079,20.62
+CUST-002900,Andre Vaughn,62,Female,Premium,West Frankview,Michigan,USA,Central,70217,37.19
+CUST-002907,James Foster,59,Female,VIP,North Marcton,Pennsylvania,USA,East,43314,72.09
+CUST-002913,Emily Andrade,46,Male,Consumer,East Lisa,Ohio,USA,Central,53914,28.27
+CUST-002941,Randy Roberts,51,Female,Business,North Maryburgh,Michigan,USA,Central,35963,17.52
+CUST-002985,Brianna Brown,69,Female,Consumer,Jeffreyfurt,Texas,USA,South,18399,29.34
+CUST-002999,Alexandra Myers,74,Non-Binary,Consumer,North Ianborough,Florida,USA,South,84150,19.13
+CUST-003016,Marc Russo,64,Female,Consumer,Davisport,Ohio,USA,Central,59530,79.2
+CUST-003035,Kristina Todd,54,Male,Consumer,Kimberlyton,Pennsylvania,USA,East,27121,71.11
+CUST-003060,Blake Hicks,24,Male,Business,Lake Peterberg,Florida,USA,South,24832,32.53
+CUST-003075,Kylie Odonnell,65,Male,Premium,Martinezmouth,Pennsylvania,USA,East,50225,76.41
+CUST-003120,Gary Bentley,69,Male,Premium,Lake Erinmouth,Texas,USA,South,88080,68.38
+CUST-003132,Craig Page,42,Male,Business,Schroederside,Georgia,USA,South,72647,24.13
+CUST-003139,David Morales,53,Male,Premium,Cherylhaven,North Carolina,USA,South,56060,22.55
+CUST-003156,Emily Moran,51,Male,Business,Kristenmouth,North Carolina,USA,South,66102,76.7
+CUST-003200,Marie Rose,37,Male,Premium,Port Henry,Pennsylvania,USA,East,28033,19.49
+CUST-003314,Megan Lindsey,24,Female,VIP,Melanieport,Michigan,USA,Central,75343,64.76
+CUST-003335,Danielle Cline,24,Female,Premium,South Erikberg,Illinois,USA,Central,69797,61.15
+CUST-003341,Richard Anderson,20,Male,Consumer,New Dennistown,Wales,UK,West,31972,14.1
+CUST-003354,Jerry Johnson,21,Non-Binary,Consumer,Romanhaven,Ohio,USA,Central,53945,66.17
+CUST-003421,Lisa Solomon,44,Male,Consumer,East Rebeccahaven,Ohio,USA,Central,53098,25.7
+CUST-003501,Michael Esparza,54,Female,Business,West Thomas,England,UK,North,36493,63.7
+CUST-003518,Donald Haas,21,Male,Consumer,East Jenniferview,Karnataka,India,South,35925,57.07
+CUST-003529,Kelly Black,62,Female,Consumer,Port Tinaborough,California,USA,West,92224,55.47
+CUST-003534,Steve Thomas,45,Male,Premium,Wilsonhaven,Pennsylvania,USA,East,76427,56.47
+CUST-003574,Melissa Doyle,71,Female,Business,New Michaelview,Florida,USA,South,70957,10.57
+CUST-003575,John Reynolds,46,Female,Consumer,Johnsonmouth,Texas,USA,South,27672,28.74
+CUST-003602,Sara Novak,23,Male,VIP,Aaronburgh,Northern Ireland,UK,West,97881,31.89
+CUST-003631,Jay Lopez,33,Female,Premium,Evansport,California,USA,West,80377,54.58
+CUST-003662,Veronica Johnson,36,Male,Consumer,East Mark,Michigan,USA,Central,79154,23.05
+CUST-003711,Carol Marshall,25,Female,Premium,North David,England,UK,North,71338,27.24
+CUST-003761,David Jones,74,Male,Consumer,South Timothyside,Pennsylvania,USA,East,89597,18.86
+CUST-003764,Eric Melton,28,Female,Consumer,Cardenashaven,Michigan,USA,Central,94933,14.37
+CUST-003786,Kevin Melton,33,Male,Consumer,Rachelburgh,Ohio,USA,Central,19813,14.15
+CUST-003800,Jamie Smith,71,Female,Consumer,Danielleview,Scotland,UK,North,80007,73.45
+CUST-003806,Jessica Ray,32,Female,Premium,West Jonathanland,Ohio,USA,Central,8529,55.68
+CUST-003830,Michelle Kirk,23,Male,VIP,Leonfort,New York,USA,East,60254,26.46
+CUST-003841,Sharon Franco,74,Female,Premium,Lake Noah,New York,USA,East,93908,24.34
+CUST-003852,Traci Hughes,55,Male,Premium,Erikabury,California,USA,West,20917,9.58
+CUST-003863,Cameron Ramos,36,Female,Consumer,Lake Adamport,New York,USA,East,70191,25.55
+CUST-003876,Hannah Garcia,51,Female,Consumer,Mendozaberg,England,UK,North,86772,78.66
+CUST-003904,Kevin Case,49,Female,VIP,West Mark,New York,USA,East,9097,57.98
+CUST-003908,Ernest Butler,30,Female,Consumer,Lewisfurt,Wales,UK,West,39785,23.62
+CUST-003917,Joseph Kramer,42,Female,Consumer,Elizabethtown,Manitoba,Canada,Central,32179,10.87
+CUST-003961,Michael Brown,39,Female,Business,Wesleymouth,Texas,USA,South,52484,50.72
+CUST-004039,Mariah Anderson,31,Male,Consumer,Veronicaton,Sharjah,UAE,North,67160,17.68
+CUST-004095,Christopher Carlson,18,Female,Consumer,Jamesland,Ontario,Canada,East,10466,35.55
+CUST-004130,Christopher Snow,44,Male,Consumer,Lake Brianborough,North Rhine,Germany,West,70345,73.85
+CUST-004166,Karen Orr,44,Male,Consumer,Port Barbaratown,New York,USA,East,28592,19.53
+CUST-004172,Brian Elliott,21,Female,Consumer,East Diane,New South Wales,Australia,East,52122,70.26
+CUST-004182,Dwayne Hall,37,Male,Consumer,North Sharon,Texas,USA,South,42755,36.77
+CUST-004185,Caleb Fields,18,Female,Premium,Suttonburgh,Hesse,Germany,Central,56670,50.74
+CUST-004234,David Bailey,46,Female,Consumer,Ashleyton,South Australia,Australia,South,68422,56.73
+CUST-004305,Francis Williams,40,Female,VIP,Lisaport,Queensland,Australia,North,63064,48.08
+CUST-004322,Jeremy Stark,62,Non-Binary,Business,Salazarberg,Illinois,USA,Central,25500,19.25
+CUST-004323,Matthew Medina,36,Male,Consumer,Morrisberg,Uttar Pradesh,India,North,78985,8.15
+CUST-004327,Crystal Duran,50,Female,Premium,West Garrettstad,Gujarat,India,West,41266,72.87
+CUST-004329,Kathleen Turner,55,Male,Consumer,West Mason,Western Australia,Australia,West,4415,10.53
+CUST-004371,Holly Webb,50,Female,Premium,Perryport,Quebec,Canada,East,22493,43.87
+CUST-004380,Eric Ryan,30,Female,Business,Port Laura,Scotland,UK,North,85354,17.36
+CUST-004440,Manuel Barrett,53,Male,Premium,Kennethton,Florida,USA,South,66991,73.57
+CUST-004453,Gabriel Atkins,30,Male,Premium,West Chadfurt,California,USA,West,57039,33.91
+CUST-004470,Elizabeth Collins,26,Male,Premium,Johnsonstad,Scotland,UK,North,54774,48.37
+CUST-004475,Carol Gibbs,61,Male,Consumer,Swansontown,Ohio,USA,Central,29662,8.99
+CUST-004479,Chad Bass,54,Female,Consumer,East Garymouth,Illinois,USA,Central,46453,29.47
+CUST-004496,Henry Sims,21,Male,Consumer,Jasonfurt,Wales,UK,West,94562,21.82
+CUST-004499,William Robbins,49,Female,Consumer,East Laura,Michigan,USA,Central,73921,77.19
+CUST-004534,Brandon Scott,48,Non-Binary,Premium,West Annafort,Michigan,USA,Central,11664,68.09
+CUST-004536,Renee Hale,35,Non-Binary,Premium,Port Timothy,Ohio,USA,Central,63272,44.85
+CUST-004552,James Jackson,47,Female,Consumer,Perezchester,California,USA,West,46788,68.83
+CUST-004584,Chelsea Orozco,26,Female,Consumer,Susanmouth,Baden-Württemberg,Germany,South,91220,43.1
+CUST-004603,Gabriella Day,46,Male,Premium,Mollyport,Western Australia,Australia,West,36821,69.83
+CUST-004611,Vickie Byrd,56,Female,Premium,Randallborough,Texas,USA,South,7944,32.33
+CUST-004620,Shannon Baker,30,Male,Consumer,East Donaldberg,New York,USA,East,32701,9.47
+CUST-004694,John Serrano,70,Male,VIP,Wilsonborough,Pennsylvania,USA,East,7358,33.03
+CUST-004699,Sandra Kelley,47,Female,Consumer,Lake Chelsealand,Michigan,USA,Central,99944,13.95
+CUST-004731,Alexandra Baird,71,Female,Premium,Port Scott,Lower Saxony,Germany,North,98670,61.68
+CUST-004732,Timothy Price,50,Female,Premium,Duffymouth,New York,USA,East,24900,8.8
+CUST-004767,Tiffany Martin,50,Male,Consumer,South Debraville,Georgia,USA,South,9296,22.07
+CUST-004788,Barry Moore,60,Female,Consumer,East Manuel,Wales,UK,West,74109,27.59
+CUST-004833,Meredith Church,62,Female,Premium,Manningborough,North Rhine,Germany,West,51694,23.9
+CUST-004857,Maria Peterson,59,Non-Binary,Consumer,Lake Jessica,California,USA,West,8987,17.49
+CUST-004887,Jessica Perez,52,Female,VIP,South Zacharyberg,Georgia,USA,South,85343,42.9
+CUST-004896,Douglas Clark,73,Male,Consumer,East Juliatown,Michigan,USA,Central,35510,61.89
+CUST-004948,Joshua Jordan,49,Male,Premium,Lake Judithland,Florida,USA,South,56341,35.18
+CUST-004949,Christopher Thompson,18,Male,Consumer,Bradleybury,Abu Dhabi,UAE,South,95793,60.47
+CUST-005014,Linda Knight,72,Male,Consumer,Port Lance,Lower Saxony,Germany,North,54030,29.44
+CUST-005025,Connie Edwards,32,Male,Consumer,Lake Meganborough,Lower Saxony,Germany,North,94451,24.23
+CUST-005053,Paige Daniels,69,Male,Premium,North Hunter,Western Australia,Australia,West,33580,67.36
+CUST-005077,William Hughes,20,Female,Consumer,Pollardview,Manitoba,Canada,Central,48089,36.02
+CUST-005096,Richard James,20,Female,Consumer,Lake Samanthatown,England,UK,North,62723,40.05
+CUST-005119,Joseph Crawford,27,Female,VIP,Roseside,Pennsylvania,USA,East,89725,72.91
+CUST-005133,Brittany Pratt,69,Female,Consumer,Lindaton,New York,USA,East,24094,40.34
+CUST-005140,Scott Summers,53,Female,Consumer,Dyershire,Georgia,USA,South,69370,15.09
+CUST-005150,Jennifer Williams,43,Female,Premium,Anthonychester,North Rhine,Germany,West,78575,54.56
+CUST-005170,Beverly Johnson,40,Female,Consumer,Maloneton,Michigan,USA,Central,38997,49.91
+CUST-005172,Manuel Moore,24,Male,Consumer,Aguilarbury,Baden-Württemberg,Germany,South,51746,24.33
+CUST-005177,Cheryl Lee,51,Female,Premium,Lake Jay,North Rhine,Germany,West,75299,52.8
+CUST-005182,Nicole Gilmore,41,Female,VIP,Lake Alan,Texas,USA,South,30986,24.77
+CUST-005192,Nicholas Bauer,51,Female,Consumer,Port Angelashire,Karnataka,India,South,49657,11.09
+CUST-005203,Dana Mendoza,19,Male,Consumer,Greenview,Florida,USA,South,79361,65.28
+CUST-005215,Madison Williams,58,Male,Business,Edwardland,Tamil Nadu,India,South,69804,41.98
+CUST-005223,Yesenia Allen,38,Female,Consumer,North Justin,Pennsylvania,USA,East,11338,29.63
+CUST-005411,Derek Mcpherson,66,Male,VIP,Port Saraton,Northern Ireland,UK,West,60208,22.53
+CUST-005425,Ashley Green,72,Male,Consumer,West Tanner,Texas,USA,South,37530,43.87
+CUST-005456,Michele King,34,Male,Business,Jessicachester,Ohio,USA,Central,6205,18.76
+CUST-005457,Christopher Hamilton,20,Female,Consumer,East Megan,Northern Ireland,UK,West,97910,56.7
+CUST-005470,Ricky Cabrera,59,Male,Consumer,Port Elizabethton,Karnataka,India,South,36960,31.0
+CUST-005481,Stephanie Carroll,37,Male,Premium,Matamouth,North Carolina,USA,South,28888,21.86
+CUST-005518,Vanessa Moore,64,Male,Consumer,North Anthony,Michigan,USA,Central,45250,32.36
+CUST-005522,Jason Valdez,31,Male,Consumer,Lake Stephanietown,Florida,USA,South,27001,58.05
+CUST-005566,Rebecca Schwartz,61,Female,Premium,Port Lynnchester,Ontario,Canada,East,17397,6.03
+CUST-005590,Regina Sullivan,70,Female,Premium,West Patriciabury,Texas,USA,South,76535,7.29
+CUST-005601,John Lewis,50,Non-Binary,Consumer,Kellyborough,Illinois,USA,Central,21520,30.6
+CUST-005617,Kristina Smith,54,Female,Consumer,Lake Jeffery,Ohio,USA,Central,98012,29.52
+CUST-005627,Phillip Anderson,44,Male,Consumer,Anthonychester,Texas,USA,South,89219,47.1
+CUST-005661,Jonathan Robinson,69,Male,Consumer,Wilsonland,Michigan,USA,Central,41476,43.07
+CUST-005750,Kathy Gordon,59,Male,VIP,North Matthew,Ontario,Canada,East,65894,63.9
+CUST-005761,Kelly Shaw,25,Male,Premium,West Richard,England,UK,North,32011,48.37
+CUST-005779,Wendy Orozco,60,Male,Consumer,Lake Jeffery,Victoria,Australia,South,67031,38.45
+CUST-005793,Terri Meyer,33,Male,Consumer,Julietown,New York,USA,East,61385,10.09
+CUST-005800,Gary Johnson,59,Male,VIP,Lake Lauren,Texas,USA,South,47847,60.16
+CUST-005833,Dennis Campbell,38,Male,Premium,North Tonyborough,California,USA,West,14646,41.22
+CUST-005886,Melissa Chan,69,Female,Consumer,Martinezmouth,North Carolina,USA,South,80244,41.39
+CUST-005964,Dalton Green,62,Female,Business,Jamesville,Florida,USA,South,94749,73.96
+CUST-006004,Chad Edwards,68,Male,Consumer,Maryside,Texas,USA,South,9290,60.49
+CUST-006006,Maria Arroyo,70,Male,Consumer,Port Christina,New York,USA,East,1998,7.73
+CUST-006008,Joy Khan,69,Male,Consumer,Williamsside,Michigan,USA,Central,45815,12.76
+CUST-006015,Chelsea Davis,47,Male,Consumer,Lake Jamesview,California,USA,West,3284,5.11
+CUST-006043,David Nguyen,38,Female,Consumer,Smithville,Scotland,UK,North,62821,61.78
+CUST-006047,Samuel Ewing,20,Female,Consumer,Johnstonmouth,New York,USA,East,13947,66.19
+CUST-006050,Crystal Tucker,56,Male,Consumer,Murrayberg,Ohio,USA,Central,22514,29.07
+CUST-006067,Michael Jimenez,21,Female,Business,Tamaraburgh,Michigan,USA,Central,82145,57.22
+CUST-006098,Tanya Gomez,55,Female,Consumer,Port Robertstad,Texas,USA,South,64853,75.89
+CUST-006100,Michael Brown,70,Male,Consumer,New Ashley,Ohio,USA,Central,99303,16.81
+CUST-006140,Victoria Hudson,37,Female,Consumer,Lewischester,North Carolina,USA,South,98319,77.77
+CUST-006164,Paige Krause,25,Female,Consumer,Wallview,Texas,USA,South,62703,48.77
+CUST-006182,Timothy Fuller,63,Male,VIP,Port Laurie,California,USA,West,42038,10.51
+CUST-006193,Jeffrey Richardson,57,Female,Consumer,Lake Amy,Ohio,USA,Central,73425,68.63
+CUST-006243,Zachary Reed,52,Female,Consumer,Youngmouth,Wales,UK,West,81916,40.41
+CUST-006303,Samuel Kirk,73,Female,Consumer,Adamburgh,Northern Ireland,UK,West,57560,28.68
+CUST-006333,Victoria Thomas,40,Female,Premium,Nixonville,California,USA,West,32576,28.81
+CUST-006364,Stephanie Lee,33,Female,Consumer,North Thomasmouth,California,USA,West,16370,33.71
+CUST-006380,Linda Collins,19,Male,Business,Oliviachester,North Carolina,USA,South,58120,15.96
+CUST-006390,Kim Santos,46,Female,Consumer,Kellyberg,Texas,USA,South,52773,32.14
+CUST-006441,Karen Tanner,23,Male,Consumer,Brownshire,California,USA,West,40400,13.3
+CUST-006484,Robert Sweeney,63,Male,Consumer,Cindyfurt,Michigan,USA,Central,69762,38.74
+CUST-006491,Daniel Bentley,72,Female,Consumer,Parrishland,England,UK,North,65677,17.94
+CUST-006522,Stephanie Deleon,52,Non-Binary,Premium,Martinfort,Northern Ireland,UK,West,17637,29.41
+CUST-006600,John Hunter,27,Male,Consumer,Michaelchester,Michigan,USA,Central,13955,51.47
+CUST-006678,Brian Weeks,41,Male,Consumer,Reidport,Northern Ireland,UK,West,29673,18.65
+CUST-006681,Daniel Barnes,21,Female,Consumer,Johnsonland,North Rhine,Germany,West,44231,17.98
+CUST-006711,Nathaniel Schroeder,34,Male,Consumer,Hudsonville,Bavaria,Germany,South,6510,66.29
+CUST-006721,Sandra Elliott,27,Female,Premium,North Jorge,North Carolina,USA,South,9643,12.66
+CUST-006725,Courtney Davies,68,Female,Consumer,Ellisview,Georgia,USA,South,39155,57.01
+CUST-006735,Susan Harrison,30,Male,VIP,Port Katieport,Pennsylvania,USA,East,68097,30.81
+CUST-006738,Michael Wilson,42,Female,Consumer,Port Jeffrey,Illinois,USA,Central,27315,33.36
+CUST-006739,Samantha Hill,20,Female,Consumer,Holthaven,North Carolina,USA,South,3136,6.77
+CUST-006749,Ronald Chavez,50,Female,Consumer,Port Tylerhaven,Alberta,Canada,Central,7392,53.96
+CUST-006780,Daniel Ramirez,67,Female,Consumer,Robertland,Pennsylvania,USA,East,81666,22.7
+CUST-006794,Daniel Kirby,27,Male,Consumer,Sandersfurt,Michigan,USA,Central,79655,41.13
+CUST-006804,Ashley Alexander,68,Male,Consumer,Jonathanmouth,Illinois,USA,Central,77887,11.91
+CUST-006805,Vanessa Smith,37,Female,Premium,Port Kathleen,North Rhine,Germany,West,28823,64.08
+CUST-006830,Mary Lucero,23,Male,Consumer,Calhounfort,Ohio,USA,Central,91905,40.55
+CUST-006870,Christopher Huang,44,Female,Premium,Garciaburgh,Queensland,Australia,North,27283,71.34
+CUST-006874,Jennifer Chaney,28,Male,Consumer,Lewisside,Georgia,USA,South,29815,28.76
+CUST-006885,Parker Anderson,47,Female,Business,Jacksonfurt,Northern Ireland,UK,West,12222,79.64
+CUST-006907,Becky Mack,39,Male,Consumer,Michellestad,Wales,UK,West,67461,58.28
+CUST-006915,Rebecca Burton,27,Female,Premium,Victoriachester,Hesse,Germany,Central,45822,38.02
+CUST-006971,Shannon Pineda,25,Female,Business,North Denise,New South Wales,Australia,East,52461,19.78
+CUST-006975,Nathaniel Hamilton,34,Male,Consumer,Lake Lauraview,Baden-Württemberg,Germany,South,9483,59.97
+CUST-006987,Haley Nichols,39,Male,VIP,East Christopherfurt,Ohio,USA,Central,64291,53.76
+CUST-007003,Katherine Anderson,21,Female,VIP,Parkermouth,Ohio,USA,Central,53282,30.65
+CUST-007006,Jade Mccann,24,Female,Consumer,New Nancy,Illinois,USA,Central,90492,51.76
+CUST-007017,Gilbert Cook,23,Male,VIP,South Katherinetown,Michigan,USA,Central,31191,12.95
+CUST-007094,Christian Parker,50,Female,Consumer,Barronburgh,Pennsylvania,USA,East,84182,48.45
+CUST-007095,Ricky Mckenzie,74,Male,Consumer,West Cynthia,Scotland,UK,North,56603,66.64
+CUST-007126,Alexandra Powell,20,Female,Consumer,Port Shannonport,Pennsylvania,USA,East,45258,49.53
+CUST-007129,Lindsay Romero,65,Female,Consumer,Abigailmouth,North Rhine,Germany,West,7507,13.9
+CUST-007130,Laura Arnold,21,Female,Business,Lake Davidfort,Texas,USA,South,45249,48.76
+CUST-007147,Patrick Stevenson,59,Female,Consumer,Thomaston,Sharjah,UAE,North,50410,46.35
+CUST-007148,Brandon Long,42,Female,Consumer,Gibsonbury,California,USA,West,64915,26.86
+CUST-007160,Aaron Moore,55,Female,Consumer,Baileyview,California,USA,West,59047,62.37
+CUST-007162,Jason Taylor,41,Non-Binary,Consumer,North Thomasberg,California,USA,West,83686,35.19
+CUST-007173,Amanda Fox,65,Female,VIP,Hillport,North Rhine,Germany,West,13719,51.8
+CUST-007218,Diane Johnson,70,Male,VIP,East Ashlee,England,UK,North,6363,6.89
+CUST-007294,Veronica Murphy,52,Male,Premium,East Gregory,England,UK,North,48968,56.34
+CUST-007399,Barry Gonzalez,19,Female,VIP,East Dustinmouth,Texas,USA,South,19510,68.07
+CUST-007480,John Hill,36,Female,Consumer,New Jasonfort,England,UK,North,73910,67.46
+CUST-007505,Nicole Simpson,45,Female,Consumer,Howardborough,Queensland,Australia,North,80498,28.55
+CUST-007509,Shannon York,64,Male,Consumer,Kaylahaven,New York,USA,East,31085,18.79
+CUST-007516,Linda Garcia,29,Male,Consumer,Seanmouth,Pennsylvania,USA,East,25867,15.37
+CUST-007530,David Mitchell,40,Female,Premium,North Michaelmouth,New York,USA,East,68382,63.3
+CUST-007541,Andrea Lopez,39,Female,Consumer,West Laurieborough,Ohio,USA,Central,43722,15.03
+CUST-007564,Stephanie Carroll,37,Male,VIP,Port Margaretshire,North Carolina,USA,South,40167,71.12
+CUST-007587,Alexis Brown,74,Male,Consumer,New Craigfurt,Michigan,USA,Central,10326,30.48
+CUST-007592,Christian Adams,67,Female,Consumer,Lake Susan,Baden-Württemberg,Germany,South,91252,38.77
+CUST-007602,Kelly Parker,52,Non-Binary,Premium,Macdonaldburgh,Pennsylvania,USA,East,66732,6.99
+CUST-007604,Wendy Cross,73,Female,Consumer,West Jessicastad,Victoria,Australia,South,1472,74.05
+CUST-007621,Dean Mendoza,31,Male,Premium,Johnsonberg,Maharashtra,India,West,56524,5.59
+CUST-007627,William Dougherty,62,Male,Premium,Wilsonville,Ohio,USA,Central,81235,12.5
+CUST-007663,Stephanie Gonzales,43,Female,Premium,Arthurshire,Texas,USA,South,31777,77.84
+CUST-007745,Thomas Johnson,52,Male,Consumer,Jaredmouth,North Carolina,USA,South,11979,51.62
+CUST-007762,Shawn Rice,42,Female,Consumer,Melissafurt,Manitoba,Canada,Central,82000,24.02
+CUST-007774,William Mills,39,Female,Consumer,North Shelia,Florida,USA,South,19974,9.31
+CUST-007810,Denise Mcconnell,56,Male,Consumer,Port Jademouth,North Rhine,Germany,West,15054,50.77
+CUST-007883,Steven Brown,49,Male,Premium,Aguilarberg,Baden-Württemberg,Germany,South,18387,20.41
+CUST-007900,Daniel Henry,21,Male,VIP,South Nicoleshire,North Carolina,USA,South,46803,28.5
+CUST-007948,Dennis Wong,51,Female,Consumer,Lake Zacharyfort,Pennsylvania,USA,East,22875,5.58
+CUST-007983,Lisa Scott,64,Female,Premium,West Andrewview,Michigan,USA,Central,28507,51.96
+CUST-008001,Kristy Rodriguez,74,Male,Consumer,Mooreshire,Ohio,USA,Central,86550,31.72
+CUST-008030,Steven Flores,26,Male,Business,Jimenezville,California,USA,West,90455,60.11
+CUST-008066,Monica Pacheco,57,Female,Consumer,Doyleville,Georgia,USA,South,11998,28.34
+CUST-008077,Jessica Pace,73,Female,Premium,North Andrew,Victoria,Australia,South,15281,73.09
+CUST-008146,Brian Bush,31,Female,Business,Morrischester,North Carolina,USA,South,81720,55.05
+CUST-008198,Elizabeth Goodwin,73,Male,Consumer,Walshtown,Wales,UK,West,17141,52.56
+CUST-008210,Tiffany Wood,61,Female,Consumer,Charlesburgh,Texas,USA,South,55756,50.54
+CUST-008214,Gregory Morton,27,Female,Premium,Travischester,Georgia,USA,South,820,46.21
+CUST-008217,Briana Harper,26,Male,Consumer,Salazarbury,Florida,USA,South,86751,70.34
+CUST-008226,Elizabeth Noble,44,Male,Premium,Gregorystad,New South Wales,Australia,East,8039,77.53
+CUST-008267,Adrian May,65,Female,Consumer,Brianberg,Bavaria,Germany,South,10294,30.3
+CUST-008277,Michele Taylor,21,Female,Premium,West Brian,North Carolina,USA,South,52239,64.11
+CUST-008283,Heather Wang,25,Female,Business,Mortontown,Baden-Württemberg,Germany,South,78159,9.83
+CUST-008287,Dennis Washington,38,Female,Consumer,Lake Sarah,New York,USA,East,14796,14.78
+CUST-008314,Daniel Gallagher,31,Male,Consumer,New Hollychester,New York,USA,East,73582,15.8
+CUST-008319,Richard Gonzales,34,Female,Business,South Davidbury,Karnataka,India,South,97595,23.85
+CUST-008320,Keith Hernandez,46,Female,Consumer,North Williammouth,North Carolina,USA,South,34671,24.69
+CUST-008321,Matthew Miller,68,Female,Premium,West Dan,Dubai,UAE,South,17456,33.51
+CUST-008350,Jackie Davis,32,Male,Consumer,North Sabrina,Florida,USA,South,51193,67.95
+CUST-008355,Michael Ford,26,Female,Consumer,New Debbie,New York,USA,East,42338,13.82
+CUST-008363,Kimberly Glover,55,Female,Consumer,North Kevin,Georgia,USA,South,97113,18.16
+CUST-008406,Tanya Smith,41,Non-Binary,Consumer,New Bradleyview,Michigan,USA,Central,6759,28.53
+CUST-008477,Brent Cameron,43,Female,Consumer,North Jasontown,England,UK,North,68359,62.15
+CUST-008487,Denise Hall,19,Female,Premium,New Dale,Pennsylvania,USA,East,64728,8.73
+CUST-008513,Crystal Lewis,21,Non-Binary,VIP,Parsonsfurt,South Australia,Australia,South,9746,53.43
+CUST-008528,Marie Stewart,20,Male,Premium,Patrickview,California,USA,West,13717,45.02
+CUST-008552,Amy Miller,74,Female,Premium,Coleberg,Illinois,USA,Central,34294,29.19
+CUST-008589,Isaiah Boyd,61,Male,Consumer,West Daniel,New York,USA,East,72691,35.96
+CUST-008603,Jon Massey,34,Female,Consumer,Port Kristinafort,California,USA,West,2346,34.5
+CUST-008658,Bianca Kramer,73,Male,Consumer,North Pamela,South Australia,Australia,South,16325,59.89
+CUST-008663,Roger Jones,68,Female,Business,Wilsontown,Northern Ireland,UK,West,12580,76.1
+CUST-008684,Jason Blevins,51,Male,VIP,Williamshire,Scotland,UK,North,11673,52.67
+CUST-008729,Nicholas Jenkins,61,Male,Premium,South Jessicashire,North Rhine,Germany,West,74757,42.77
+CUST-008771,Joshua Meza,65,Female,Consumer,Hurleyberg,Georgia,USA,South,79281,17.6
+CUST-008772,Jennifer Walsh,67,Male,Premium,Coxborough,Bavaria,Germany,South,19477,67.79
+CUST-008827,Tracy Ruiz,59,Male,VIP,Christinatown,Scotland,UK,North,99439,33.85
+CUST-008829,James Wolf,30,Male,Business,New Sarah,Alberta,Canada,Central,90640,70.94
+CUST-008853,Sarah Braun,54,Male,Consumer,North Raymond,England,UK,North,77715,76.5
+CUST-008862,Nicole Oconnell,71,Female,VIP,Samanthahaven,Ohio,USA,Central,14394,13.17
+CUST-008879,Theresa Leon,52,Female,Premium,South Rachelfurt,New South Wales,Australia,East,97892,70.06
+CUST-008899,Brandon Cooley,26,Male,Premium,North Ryan,Quebec,Canada,East,72863,15.2
+CUST-008917,Cheyenne Wilson,42,Male,Consumer,Philipton,New York,USA,East,43957,8.73
+CUST-008938,Madison Bauer,56,Non-Binary,Premium,Littleborough,Hesse,Germany,Central,8401,18.58
+CUST-008991,Kevin Mcdonald,58,Female,Consumer,Henrymouth,Northern Ireland,UK,West,36960,49.72
+CUST-009011,Grant Stevens,27,Female,Consumer,Port Karen,Wales,UK,West,31367,67.54
+CUST-009102,Kristin Rodriguez,23,Female,Premium,Mendozaton,North Carolina,USA,South,23174,16.2
+CUST-009193,Lisa White,45,Male,Consumer,Lake Dawnview,Wales,UK,West,37622,41.37
+CUST-009220,Theresa Lynch,18,Female,VIP,Jonesport,Florida,USA,South,24307,23.13
+CUST-009228,Laura Gates,53,Female,Premium,West Ericaside,Wales,UK,West,75209,61.13
+CUST-009262,Gregory Garza,39,Female,Consumer,Jonathanview,Manitoba,Canada,Central,46491,74.85
+CUST-009265,Alexis Clark,39,Non-Binary,Premium,Kennethfort,California,USA,West,13980,63.65
+CUST-009282,Jenna Kemp,26,Male,Consumer,Lauriemouth,Florida,USA,South,32958,75.7
+CUST-009284,Bonnie Savage,65,Female,Consumer,New Jason,Lower Saxony,Germany,North,66493,39.7
+CUST-009310,Karen Jones,45,Female,Consumer,New Lindashire,California,USA,West,76924,44.38
+CUST-009322,Maria Hughes,24,Female,Premium,Lake Denise,Illinois,USA,Central,21308,51.28
+CUST-009336,Carrie Hall,21,Female,Consumer,West Christine,Quebec,Canada,East,44552,34.12
+CUST-009404,David Hernandez,37,Female,Consumer,Lake Karaview,Bavaria,Germany,South,80750,43.39
+CUST-009433,Daniel Strong,27,Female,Business,Lake Paul,Illinois,USA,Central,62163,68.18
+CUST-009468,Jamie Smith,64,Male,Consumer,Port Karen,Florida,USA,South,71188,20.03
+CUST-009501,Debbie Smith,42,Male,Consumer,Harperfort,Florida,USA,South,63856,27.52
+CUST-009559,Kelsey Rogers,26,Male,VIP,New Mike,New York,USA,East,15814,63.43
+CUST-009577,Robin Pope,62,Female,Premium,Marshallborough,Florida,USA,South,7196,30.55
+CUST-009597,Paula Rasmussen,22,Female,Consumer,South John,Pennsylvania,USA,East,20253,40.9
+CUST-009602,Steven Deleon,66,Female,Consumer,West Tanyafurt,California,USA,West,37225,69.76
+CUST-009641,Mary Hebert,44,Female,Business,West Lisa,New York,USA,East,6795,16.77
+CUST-009647,Robert Curry,56,Female,VIP,Arellanoton,Georgia,USA,South,21565,15.18
+CUST-009655,Sherri Owens,30,Male,VIP,Lisafurt,Pennsylvania,USA,East,57418,38.03
+CUST-009694,Joseph Little,73,Non-Binary,Premium,New Dominiquetown,Illinois,USA,Central,28141,68.36
+CUST-009726,Sara Stein,19,Male,Consumer,Ashleyburgh,Lower Saxony,Germany,North,91389,47.68
+CUST-009737,Carolyn Lyons,71,Male,Consumer,Reeseside,New York,USA,East,99632,72.18
+CUST-009751,Nicole Moreno,74,Female,Consumer,Edwardbury,Abu Dhabi,UAE,South,77437,12.61
+CUST-009764,Melanie Alvarado,28,Male,Premium,Port Ronaldville,New South Wales,Australia,East,80135,53.87
+CUST-009804,Barbara Durham,56,Female,Consumer,Powellhaven,Florida,USA,South,69532,47.78
+CUST-009820,Jeremy Peters,46,Male,Consumer,Craigville,Illinois,USA,Central,71813,33.21
+CUST-009906,Angela Thompson,74,Male,Premium,East Sheila,Pennsylvania,USA,East,13755,24.24
+CUST-009913,David Mays,23,Female,VIP,Port Danielle,New York,USA,East,1164,17.16
+CUST-009958,Samantha Hogan,54,Female,Consumer,Port Annamouth,Texas,USA,South,62903,22.57
+CUST-009987,Michael Jones,68,Male,Premium,Lake Samuelfort,England,UK,North,26710,66.67
+CUST-009991,Brian Holmes,39,Male,Business,Port Anne,Michigan,USA,Central,23169,55.36
+CUST-010052,Sarah Hall,52,Female,Consumer,Kimfurt,Texas,USA,South,72105,52.53
+CUST-010055,James Warner,72,Female,Consumer,New Daniel,Michigan,USA,Central,18499,73.09
+CUST-010134,Ashley Cox,42,Female,Consumer,South Michael,Northern Ireland,UK,West,99640,56.91
+CUST-010243,Kristie Walker,53,Female,Consumer,Tammyton,Uttar Pradesh,India,North,61469,68.03
+CUST-010274,Candice Tucker,41,Female,Consumer,Stephentown,Illinois,USA,Central,9555,64.09
+CUST-010312,Jeffrey Thomas,36,Male,Business,North Markfort,Lower Saxony,Germany,North,66352,16.63
+CUST-010318,Daniel Graham,33,Male,Consumer,Keyland,Ohio,USA,Central,88014,54.52
+CUST-010365,Thomas Bryant,43,Male,Premium,Lake Phillipchester,Wales,UK,West,48205,15.15
+CUST-010382,Ruth Faulkner,36,Male,VIP,North Stephen,Wales,UK,West,54253,79.2
+CUST-010399,Bryan Kirby,34,Female,Consumer,New Marieshire,Pennsylvania,USA,East,58289,39.79
+CUST-010422,Noah Lopez,20,Male,Business,Mirandahaven,Illinois,USA,Central,59358,7.9
+CUST-010433,Julie Montes,49,Female,Consumer,South Dustinmouth,New York,USA,East,96233,54.93
+CUST-010442,Alicia Phelps,37,Female,Consumer,Emilytown,Florida,USA,South,37525,71.24
+CUST-010491,Anna Hayden,50,Male,Consumer,North Abigail,New York,USA,East,18913,70.89
+CUST-010505,Deborah Jones,61,Male,Premium,Melissafurt,Dubai,UAE,South,81471,40.78
+CUST-010574,Roger Werner,21,Male,Consumer,East Jeffreymouth,Pennsylvania,USA,East,91021,18.85
+CUST-010576,Cynthia Ryan,28,Male,Consumer,East Samanthabury,Texas,USA,South,2673,75.41
+CUST-010593,Susan Mcgee,34,Male,Consumer,Sandrafort,North Carolina,USA,South,80993,35.01
+CUST-010631,Jeffery Kennedy,46,Male,VIP,Tammytown,North Carolina,USA,South,1899,67.89
+CUST-010650,Tiffany Edwards,55,Female,Premium,North Williammouth,Florida,USA,South,14690,12.2
+CUST-010667,Marc Wells,38,Male,Consumer,North Erika,Ohio,USA,Central,9067,65.34
+CUST-010721,Amanda Harris,45,Female,Consumer,Nathanmouth,Scotland,UK,North,84113,37.58
+CUST-010729,Matthew Arnold,23,Female,VIP,Port Kimbury,Victoria,Australia,South,96013,12.98
+CUST-010730,Jorge Miller,55,Female,Consumer,South James,British Columbia,Canada,West,87254,73.09
+CUST-010775,David Holloway,60,Male,Consumer,East Robert,North Carolina,USA,South,10480,45.39
+CUST-010800,Matthew Morgan,45,Male,Consumer,Bassfort,England,UK,North,16589,17.16
+CUST-010805,Robin Randall,55,Male,Consumer,Johnsonburgh,Texas,USA,South,85730,37.79
+CUST-010831,Heather Bishop,36,Male,Consumer,South Allenside,England,UK,North,13498,40.3
+CUST-010845,Stephanie Taylor,70,Male,Premium,South Cristianville,Scotland,UK,North,14343,55.12
+CUST-010871,Cheryl Knight,35,Female,Consumer,Jonathonborough,Ontario,Canada,East,89512,49.31
+CUST-010875,Sarah Koch,31,Male,Consumer,Catherineburgh,Karnataka,India,South,76757,34.98
+CUST-010930,Arthur Anderson,68,Female,Consumer,Port Jenniferhaven,Texas,USA,South,63116,24.25
+CUST-010933,Shannon Rodriguez,45,Female,Consumer,Jessicaburgh,Ohio,USA,Central,65172,45.86
+CUST-010953,Jesus Robbins,34,Male,Consumer,New Travisshire,Lower Saxony,Germany,North,28540,71.43
+CUST-010986,Nancy Montgomery,55,Female,Consumer,Bennettport,South Australia,Australia,South,30563,31.88
+CUST-010995,Ruth Taylor,66,Male,Consumer,West Jessica,Wales,UK,West,43437,16.63
+CUST-011006,Samantha Taylor,66,Male,Consumer,Sullivanchester,Georgia,USA,South,66952,73.48
+CUST-011014,Michael Shaffer,25,Male,Consumer,Johnsonton,Manitoba,Canada,Central,45897,63.73
+CUST-011015,Robert Mills,27,Female,Consumer,Justinborough,New York,USA,East,19640,22.68
+CUST-011021,Benjamin Steele,25,Female,Premium,Owensmouth,New York,USA,East,59122,58.91
+CUST-011036,Brendan Hall,60,Male,VIP,Lisaton,Texas,USA,South,44351,70.92
+CUST-011042,Debra Gomez,58,Male,Business,South Stacyport,England,UK,North,28221,35.35
+CUST-011063,Mary Terrell,36,Female,Consumer,Marcushaven,Georgia,USA,South,15628,61.93
+CUST-011071,Cynthia Osborne,64,Female,Premium,Morganbury,Michigan,USA,Central,66516,8.28
+CUST-011076,Kathleen Martinez,67,Female,Consumer,Reneefurt,Georgia,USA,South,18111,67.75
+CUST-011089,Benjamin Logan,55,Female,Consumer,North Amberfurt,Florida,USA,South,54122,74.6
+CUST-011107,Barbara Cohen,51,Male,Consumer,Margaretland,Illinois,USA,Central,24919,27.63
+CUST-011138,Ebony Alvarado,39,Female,Business,Lake Cherylstad,New York,USA,East,11816,61.41
+CUST-011164,Linda White,66,Female,Business,East Karen,New York,USA,East,32461,41.97
+CUST-011189,Benjamin Allen,34,Male,Consumer,Jeremyshire,Georgia,USA,South,3177,75.34
+CUST-011211,Lisa Mitchell,45,Female,Premium,New Kevin,Michigan,USA,Central,73134,11.77
+CUST-011224,Tommy Barnett,34,Male,VIP,West Julie,North Carolina,USA,South,8233,37.42
+CUST-011232,Daniel Thomas,46,Female,Premium,Rebeccaview,North Carolina,USA,South,58554,75.63
+CUST-011252,Corey Lopez,59,Male,Business,South Jimmy,California,USA,West,92416,71.05
+CUST-011314,Jonathan Smith,32,Female,Premium,South Jennifer,England,UK,North,59544,18.94
+CUST-011325,Ryan Wood,69,Female,VIP,Sarahborough,Dubai,UAE,South,76652,63.51
+CUST-011351,Rebecca Harris,38,Male,Premium,West Robinbury,Michigan,USA,Central,42037,34.17
+CUST-011370,Bradley Schmitt,34,Non-Binary,Premium,Port Julie,Florida,USA,South,3033,68.37
+CUST-011375,Amanda Lee,63,Female,Consumer,Christopherfurt,Lower Saxony,Germany,North,18888,26.28
+CUST-011383,Michael Hunt,45,Non-Binary,Consumer,Tannermouth,Northern Ireland,UK,West,92500,56.14
+CUST-011406,Don Hernandez,62,Female,Business,Levinefurt,Ohio,USA,Central,29725,44.22
+CUST-011468,William Mcdowell,46,Male,Business,South Natalieport,Illinois,USA,Central,97992,16.06
+CUST-011491,Cindy Barajas,62,Male,Premium,Millerton,North Carolina,USA,South,80895,40.19
+CUST-011544,Michael Reynolds,74,Female,Consumer,Murphyhaven,Pennsylvania,USA,East,13640,57.6
+CUST-011625,Allison Morgan,55,Female,Consumer,West Dana,Michigan,USA,Central,25559,24.36
+CUST-011659,Wyatt Willis,36,Female,Business,New Olivia,Quebec,Canada,East,2059,48.19
+CUST-011666,Amy Ramirez,52,Male,Consumer,Lake Melissa,England,UK,North,81462,38.2
+CUST-011674,Leslie Morales,56,Male,Business,Mccarthyport,South Australia,Australia,South,38599,46.19
+CUST-011687,Nathan Roberts,48,Female,Consumer,Walkerside,Hesse,Germany,Central,62410,24.67
+CUST-011727,Chelsea Sullivan,29,Male,Business,Jenniferburgh,Michigan,USA,Central,81253,54.06
+CUST-011742,Lauren Brown,36,Female,Consumer,North Brandon,Michigan,USA,Central,14603,37.58
+CUST-011763,Kristi Rivera,28,Female,VIP,Jonesland,Wales,UK,West,96768,74.6
+CUST-011815,John Johnson,59,Male,VIP,Catherinehaven,Ontario,Canada,East,42865,9.96
+CUST-011840,Michael Mcbride,22,Female,Consumer,Lake Jonathan,Michigan,USA,Central,37234,47.69
+CUST-011863,Terry Johnson,54,Non-Binary,Consumer,Port Tony,Ohio,USA,Central,85222,66.28
+CUST-011865,Stephanie Hoffman,59,Female,Consumer,Kimberg,California,USA,West,11013,34.5
+CUST-011873,Sandra Watson,32,Female,Premium,Collinsview,Western Australia,Australia,West,47139,77.47
+CUST-012052,Jerome Thompson,43,Female,Consumer,East John,Pennsylvania,USA,East,18185,18.71
+CUST-012061,Scott Rodriguez,57,Male,Consumer,Port Eric,Wales,UK,West,34874,24.78
+CUST-012105,Erika Collins,40,Female,Consumer,South Robertfort,Michigan,USA,Central,15464,64.31
+CUST-012116,Audrey Schmidt,19,Male,Premium,Pamelachester,Georgia,USA,South,18858,66.61
+CUST-012122,Joy Taylor,69,Female,Premium,Powellbury,Illinois,USA,Central,15247,37.22
+CUST-012157,Matthew Taylor,59,Male,VIP,Port Angelica,Dubai,UAE,South,22375,52.51
+CUST-012204,Brenda Hudson,71,Female,Consumer,New Christopherville,Texas,USA,South,7848,10.64
+CUST-012222,Philip Fry,18,Male,Premium,Garciachester,California,USA,West,73006,55.39
+CUST-012236,Amanda Smith,25,Male,Premium,East Markton,North Carolina,USA,South,96310,51.51
+CUST-012259,Trevor Robinson,26,Female,Premium,Lake Markhaven,Texas,USA,South,22590,69.41
+CUST-012301,Sarah Peters,25,Female,Business,Sanchezberg,Georgia,USA,South,84378,45.67
+CUST-012354,Desiree Barnes,55,Male,Consumer,Lake Reginaldton,Baden-Württemberg,Germany,South,15953,66.23
+CUST-012379,Elizabeth Taylor,36,Female,Premium,Lake Matthewport,British Columbia,Canada,West,76409,74.48
+CUST-012386,Kelly Lee,35,Female,Consumer,East John,Pennsylvania,USA,East,95870,65.9
+CUST-012399,Gregory Ford,18,Female,Premium,New Joyland,New York,USA,East,2937,69.32
+CUST-012427,Robin Johnson,50,Female,Consumer,Garciastad,Alberta,Canada,Central,88942,29.35
+CUST-012508,Emily Russell,29,Male,Consumer,Mendezton,England,UK,North,27253,20.39
+CUST-012531,Michael Weber,64,Female,Consumer,Johnsonton,Pennsylvania,USA,East,60078,27.23
+CUST-012584,Briana Skinner,55,Male,VIP,North Angieton,Sharjah,UAE,North,74865,22.85
+CUST-012601,Vincent Jones,64,Male,Premium,New Katherineville,Baden-Württemberg,Germany,South,98823,42.3
+CUST-012654,Brittany Russo,41,Male,Consumer,East Gabrielleview,New York,USA,East,20404,45.9
+CUST-012656,Joe Kemp,48,Male,Consumer,New David,Florida,USA,South,14056,73.56
+CUST-012666,Michael Fitzgerald,59,Male,Consumer,New Tonya,Scotland,UK,North,37871,36.76
+CUST-012680,Lacey Castro,34,Male,Premium,Jenniferborough,Baden-Württemberg,Germany,South,87598,17.45
+CUST-012703,Michael Wallace,73,Female,Premium,Randolphshire,Gujarat,India,West,12352,38.28
+CUST-012776,Rebecca Rodriguez,46,Female,Business,South James,New York,USA,East,46428,48.74
+CUST-012785,Clayton Mcdonald,67,Male,Business,New Gregory,North Rhine,Germany,West,13150,37.38
+CUST-012792,Ashley Neal,51,Female,Consumer,Port Deborah,Ohio,USA,Central,75261,47.86
+CUST-012801,Kenneth Reed,27,Male,Consumer,East Lisachester,Michigan,USA,Central,66089,69.38
+CUST-012802,Craig Morrison,30,Female,Consumer,Shawnmouth,California,USA,West,34231,16.71
+CUST-012822,Ashley Adams,63,Male,Consumer,South Kristina,California,USA,West,92455,52.27
+CUST-012828,Kathleen Irwin,54,Female,Consumer,Perezshire,Georgia,USA,South,73817,23.53
+CUST-012854,Kristi Cabrera,22,Male,VIP,South Angelahaven,Florida,USA,South,16116,48.66
+CUST-012911,Judy Hughes,23,Male,VIP,Randyborough,Tamil Nadu,India,South,18462,67.22
+CUST-012972,Kaitlyn Snyder,49,Female,VIP,Vazquezburgh,Pennsylvania,USA,East,75424,55.5
+CUST-012979,Amy Gonzalez,63,Male,Consumer,Cruzside,California,USA,West,18433,52.29
+CUST-012980,Erika Smith,37,Male,Consumer,Johnberg,California,USA,West,52725,69.27
+CUST-012981,Andrew Potter,29,Female,Premium,Davidville,Northern Ireland,UK,West,12705,48.29
+CUST-012983,Shannon Wright,69,Female,Premium,Castroport,North Carolina,USA,South,71497,40.87
+CUST-012994,Anne Saunders,53,Female,Premium,Beasleytown,Baden-Württemberg,Germany,South,33437,7.9
+CUST-013009,David Baker,73,Female,Premium,Lake Jenniferport,Ohio,USA,Central,61764,30.18
+CUST-013052,Tina Williams,73,Male,Consumer,Mccartyshire,Northern Ireland,UK,West,63732,45.95
+CUST-013060,Nicholas Smith,38,Male,Consumer,North Ericland,Gujarat,India,West,76207,62.3
+CUST-013102,Meghan Mcpherson,73,Male,Consumer,Valdezview,North Carolina,USA,South,60962,38.9
+CUST-013105,Christina Wilson,27,Female,Consumer,Karlaside,Dubai,UAE,South,24562,57.56
+CUST-013108,Melissa Barber,44,Female,Consumer,North Jeffrey,California,USA,West,84913,9.41
+CUST-013167,Beth Berry,33,Male,Consumer,Millermouth,Ohio,USA,Central,82586,51.24
+CUST-013192,Angela Steele,43,Male,Consumer,Lake Timothybury,Quebec,Canada,East,4870,31.94
+CUST-013228,Alyssa Petersen,39,Male,Consumer,Rachelstad,New York,USA,East,89124,23.47
+CUST-013245,Micheal Hunt,65,Male,Business,Bennettfort,Texas,USA,South,4573,28.81
+CUST-013411,Dana Jackson,24,Female,Business,New Joelton,South Australia,Australia,South,21606,44.58
+CUST-013412,Brandon Bean,60,Male,Premium,Leslieland,Northern Ireland,UK,West,57214,7.01
+CUST-013464,Adam Park,63,Non-Binary,Consumer,New Yvette,Hesse,Germany,Central,89139,69.79
+CUST-013466,Cheryl Thompson,23,Female,Consumer,Port Monicamouth,Michigan,USA,Central,54599,24.79
+CUST-013506,Chase Chung,36,Female,Consumer,Jacobstad,Bavaria,Germany,South,94386,67.52
+CUST-013507,Timothy Perez,72,Male,Consumer,East Jasonland,Scotland,UK,North,50414,79.48
+CUST-013577,Wendy Mitchell,23,Male,Consumer,Lake Kristin,New York,USA,East,6259,36.95
+CUST-013605,Cody Hurley,51,Female,Premium,Lake Markville,Texas,USA,South,89384,11.82
+CUST-013708,Natalie Nielsen,63,Female,Consumer,West Isaiahview,Scotland,UK,North,84038,35.54
+CUST-013715,Rickey Johnson,18,Female,Consumer,West Theodore,North Carolina,USA,South,77911,42.25
+CUST-013735,Vanessa Bailey,64,Female,Premium,Christopherborough,Western Australia,Australia,West,62412,63.09
+CUST-013741,Mitchell Walsh,71,Female,VIP,West Vickiehaven,Lower Saxony,Germany,North,656,62.67
+CUST-013753,Kari Short,26,Female,Consumer,North Shawn,Texas,USA,South,37934,63.04
+CUST-013810,Joann Wolf,25,Male,VIP,Riceport,Karnataka,India,South,46230,63.37
+CUST-013811,Laurie Long,26,Male,Consumer,Ericville,Pennsylvania,USA,East,26104,46.41
+CUST-013837,Jamie Smith,38,Female,Premium,West Jenniferburgh,New York,USA,East,3659,15.72
+CUST-013850,Nicole Arias,43,Male,Premium,Jenniferfurt,Florida,USA,South,26123,41.85
+CUST-013858,Jeff Richmond,49,Male,Premium,East Linda,Michigan,USA,Central,92969,39.75
+CUST-013861,David Hess,18,Male,VIP,Thomasland,Northern Ireland,UK,West,39264,62.38
+CUST-013897,Sherry Benjamin,31,Male,Premium,Lake Maria,Pennsylvania,USA,East,58691,23.13
+CUST-013907,Deborah Cox,66,Female,Consumer,North Robert,North Carolina,USA,South,45063,18.15
+CUST-013912,Jesse Curry,72,Male,Business,Nguyenshire,Ohio,USA,Central,70534,58.35
+CUST-013914,Mark Reed,18,Male,Premium,New Anne,Scotland,UK,North,72790,45.89
+CUST-013918,Gary Ramos,64,Male,Consumer,Ashleyview,Hesse,Germany,Central,82401,8.0
+CUST-013930,Matthew Beltran,39,Female,Consumer,Lake Mary,Texas,USA,South,68675,69.51
+CUST-013994,Kathleen Curtis,52,Male,Consumer,South Amandamouth,California,USA,West,64297,17.2
+CUST-014011,Daniel Brown,43,Female,Consumer,East Bryanville,Wales,UK,West,29401,29.94
+CUST-014101,Sean Moon,50,Male,Consumer,North Keith,Texas,USA,South,93289,35.65
+CUST-014113,Catherine Price,38,Male,Consumer,North Sandra,Florida,USA,South,95646,18.03
+CUST-014121,Tiffany Rivera,26,Male,Consumer,Weaverfort,Georgia,USA,South,6026,17.5
+CUST-014134,Bryan Banks,19,Male,VIP,Mariaborough,Ajman,UAE,North,61667,71.35
+CUST-014161,Scott Hudson,46,Male,Consumer,North Peter,North Carolina,USA,South,71145,72.91
+CUST-014162,Laura Duncan,63,Male,Consumer,New Gregoryborough,North Rhine,Germany,West,66759,12.93
+CUST-014186,Brittany Carrillo,71,Male,Business,South Timothy,British Columbia,Canada,West,29393,20.73
+CUST-014247,Stacy Patel,47,Male,Consumer,West Rachelfort,New South Wales,Australia,East,65157,77.84
+CUST-014337,Thomas Robinson,47,Female,Business,New Darrellstad,Texas,USA,South,71230,75.14
+CUST-014348,Benjamin Smith,30,Non-Binary,Consumer,Andrealand,Manitoba,Canada,Central,53811,10.94
+CUST-014458,Angela Holden,71,Male,Consumer,Lake Taylor,New York,USA,East,10062,65.89
+CUST-014469,Daniel Johnson,39,Non-Binary,Consumer,Petersonfort,Ohio,USA,Central,73628,37.14
+CUST-014482,Hunter Roberts,18,Non-Binary,Consumer,West Kathleenside,California,USA,West,34403,45.28
+CUST-014582,Melissa Green,31,Female,Consumer,Phillipfort,Michigan,USA,Central,64303,56.55
+CUST-014595,Beverly Wood,58,Male,Business,Frederickshire,Florida,USA,South,24939,71.33
+CUST-014613,Katie Hall,19,Female,VIP,West Jacob,Maharashtra,India,West,69233,14.61
+CUST-014618,Richard Yoder,28,Male,Premium,Port Stephaniefort,Pennsylvania,USA,East,5306,72.73
+CUST-014668,Chad Rodriguez,46,Male,Business,South Brettbury,Lower Saxony,Germany,North,1291,7.24
+CUST-014680,Shannon Gilbert,58,Male,Consumer,North Stephenport,Scotland,UK,North,44076,18.27
+CUST-014712,Amanda Downs,44,Male,Premium,New Paul,England,UK,North,97950,70.27
+CUST-014721,Krystal Howard,20,Female,Consumer,Thomasburgh,Georgia,USA,South,39845,44.58
+CUST-014729,Colleen Scott,35,Male,Consumer,Patriciastad,Bavaria,Germany,South,44359,15.28
+CUST-014745,Alexis Chambers,52,Female,VIP,Roberttown,Florida,USA,South,27003,45.64
+CUST-014763,Kimberly Zuniga,73,Female,VIP,South Erinchester,Gujarat,India,West,36656,54.19
+CUST-014781,Danielle Smith,20,Female,Consumer,Amberville,Lower Saxony,Germany,North,9783,37.93
+CUST-014835,Kyle Jackson,59,Male,Business,North Kristenburgh,Sharjah,UAE,North,97875,41.21
+CUST-014842,Karen Randolph,53,Male,Consumer,Lake Andrea,South Australia,Australia,South,3361,11.58
+CUST-014864,Rick Martin,42,Male,Premium,Port Chloe,Florida,USA,South,30388,47.25
+CUST-014923,Dana Davis,26,Female,VIP,Hodgeview,New York,USA,East,40282,22.25
+CUST-014994,Ashley Gay,33,Male,Consumer,North Brandon,North Carolina,USA,South,87349,32.93
+CUST-015006,Timothy Atkinson,36,Female,Premium,Port Tanner,New York,USA,East,74612,56.06
+CUST-015012,Kristine Valencia,24,Male,Consumer,Lake Edward,Scotland,UK,North,25739,68.89
+CUST-015063,Michael Johnson,57,Female,Premium,Christopherhaven,Dubai,UAE,South,27128,38.66
+CUST-015094,Monique Johnson,72,Male,Premium,West Ariana,Illinois,USA,Central,25644,72.35
+CUST-015144,Adam Pacheco,41,Female,Premium,Karentown,England,UK,North,30215,17.24
+CUST-015152,Keith Kennedy,22,Male,Premium,Josephfort,Texas,USA,South,15156,7.88
+CUST-015154,Christopher Brown,36,Female,Consumer,Arthurside,Wales,UK,West,6188,11.74
+CUST-015190,Melissa Campbell,54,Male,Consumer,Chelseaburgh,New York,USA,East,32391,79.1
+CUST-015217,Dustin Perry,27,Female,VIP,Mathisport,Florida,USA,South,5095,76.38
+CUST-015251,Alexander Hill,49,Female,Consumer,Rossview,Ohio,USA,Central,82725,74.77
+CUST-015283,Arthur Thompson,48,Male,Consumer,Lake Patrickhaven,Ontario,Canada,East,43288,9.19
+CUST-015309,John Taylor,21,Male,Premium,Maciaston,Illinois,USA,Central,67660,42.77
+CUST-015326,Kathryn Hobbs,33,Female,VIP,South Brandonport,Hesse,Germany,Central,76109,35.3
+CUST-015400,Kathy Cain,26,Female,Premium,New Jonathan,Georgia,USA,South,30332,37.39
+CUST-015401,Jean Acosta,33,Female,Consumer,Lake Chad,Illinois,USA,Central,97911,57.33
+CUST-015494,Lonnie Collins,19,Female,Consumer,West Tracychester,South Australia,Australia,South,29187,7.16
+CUST-015499,Adam Vargas,71,Male,Premium,Gonzalesborough,British Columbia,Canada,West,12558,42.63
+CUST-015506,Marc Braun,42,Female,Business,Melissamouth,California,USA,West,67542,5.25
+CUST-015511,Carol Serrano,48,Female,Premium,South Ralph,Northern Ireland,UK,West,45693,74.84
+CUST-015531,Peggy Hill,62,Male,Consumer,Whiteshire,New South Wales,Australia,East,52453,10.29
+CUST-015565,Sarah Price,57,Male,Premium,New Danielchester,Maharashtra,India,West,47845,16.52
+CUST-015577,Susan Brandt,19,Female,Business,Port Jasminemouth,New York,USA,East,2435,60.3
+CUST-015600,Raven Smith,61,Male,Consumer,Bakerberg,Northern Ireland,UK,West,88849,68.65
+CUST-015634,Daniel Johnson,56,Male,Consumer,East Connor,Michigan,USA,Central,59825,69.32
+CUST-015672,Gilbert May,57,Male,Premium,Kimberlymouth,Lower Saxony,Germany,North,56336,75.28
+CUST-015680,Robert Gilbert,28,Male,Business,Lauraport,Ohio,USA,Central,80146,40.86
+CUST-015709,Donna Wilson,71,Male,Consumer,Williamsland,Pennsylvania,USA,East,87322,45.48
+CUST-015714,Heather Perry,20,Male,VIP,Deannaborough,Wales,UK,West,32045,53.11
+CUST-015715,Jessica Davis,49,Female,Premium,Terrifort,Bavaria,Germany,South,96283,61.18
+CUST-015730,Joanna Newman,63,Male,Consumer,Middletonville,Illinois,USA,Central,75302,77.12
+CUST-015734,Joseph Boyd,42,Female,VIP,Jasontown,Pennsylvania,USA,East,90601,53.59
+CUST-015750,Crystal Castillo,35,Male,Consumer,West David,Sharjah,UAE,North,41080,16.95
+CUST-015752,Daniel Dominguez,26,Female,Consumer,Port Lisa,California,USA,West,45915,79.02
+CUST-015792,Christopher White,49,Female,Business,Port Craig,Wales,UK,West,26813,75.88
+CUST-015853,James Ellis,21,Female,Consumer,Port Danielburgh,North Carolina,USA,South,79486,57.09
+CUST-015869,Michael Henry,55,Male,Consumer,West Stephanieside,Florida,USA,South,15347,34.02
+CUST-015925,John Gutierrez,62,Male,Consumer,South Douglasside,Alberta,Canada,Central,25326,71.24
+CUST-015979,Dominique Bryan,47,Male,Premium,Burnettville,North Carolina,USA,South,6996,73.98
+CUST-015989,John Bradshaw,55,Male,Premium,North Michael,Illinois,USA,Central,96902,69.69
+CUST-015992,Norman Gonzalez,49,Female,VIP,South Wayneside,Ohio,USA,Central,14166,45.98
+CUST-016001,Mary Thomas,20,Female,Consumer,Lake Ashleyfort,Uttar Pradesh,India,North,8392,27.52
+CUST-016031,Donald Jones,53,Male,Business,Beverlyton,Texas,USA,South,70364,14.33
+CUST-016047,Michelle Lopez,25,Female,Consumer,South Carlafort,Georgia,USA,South,63709,43.93
+CUST-016064,Jose Golden,45,Female,Business,New Joshuaside,Maharashtra,India,West,53153,15.29
+CUST-016092,Kenneth Campbell,29,Female,Premium,Lake Jacobburgh,Wales,UK,West,95668,55.35
+CUST-016115,Casey Rose,36,Female,Consumer,Andrewberg,Lower Saxony,Germany,North,14054,49.33
+CUST-016127,April Williams,73,Male,Premium,Port Eugene,Ohio,USA,Central,58212,17.8
+CUST-016144,Candice Jacobs,62,Female,Premium,Karlashire,Alberta,Canada,Central,98014,18.36
+CUST-016194,Donald Summers,39,Female,Premium,Port Amy,Michigan,USA,Central,44255,28.75
+CUST-016217,Trevor Reed,34,Non-Binary,Premium,Caseyfort,Hesse,Germany,Central,58124,47.59
+CUST-016234,James Marshall,38,Female,Consumer,Moranside,Texas,USA,South,92904,59.07
+CUST-016265,Patricia Collins,22,Male,Consumer,East Brittany,New York,USA,East,56355,78.03
+CUST-016312,Shelley Hughes,20,Male,Premium,East Patrickhaven,Pennsylvania,USA,East,14632,20.21
+CUST-016317,James Gross,56,Male,Premium,Tranmouth,Georgia,USA,South,79107,22.21
+CUST-016323,Robin Perez,67,Female,Business,North Jasonville,Karnataka,India,South,8378,24.22
+CUST-016377,Troy Neal,33,Male,Consumer,Port Javierland,Texas,USA,South,60443,48.43
+CUST-016424,Michael Johnson,27,Male,Premium,North Bethborough,Pennsylvania,USA,East,40218,29.48
+CUST-016429,Laura Alexander,45,Female,Premium,New Veronicastad,Illinois,USA,Central,59649,70.12
+CUST-016452,Lauren Hunt,68,Non-Binary,Consumer,New Danielle,Lower Saxony,Germany,North,36803,78.1
+CUST-016504,Larry Watson,31,Female,Consumer,Scottview,Hesse,Germany,Central,4279,40.46
+CUST-016545,Lucas Young,44,Male,Premium,Lake Virginiahaven,Western Australia,Australia,West,21973,57.97
+CUST-016559,Lori Garcia,44,Male,Consumer,Wiseport,North Rhine,Germany,West,29990,24.15
+CUST-016563,Maria Davis,33,Female,Premium,New Susan,New York,USA,East,28818,66.36
+CUST-016655,Isabella Anderson,18,Female,Premium,Beckberg,Florida,USA,South,42233,75.58
+CUST-016677,Michael Kline,39,Male,VIP,Rickystad,Pennsylvania,USA,East,83617,32.34
+CUST-016702,Eddie Graham,50,Male,Consumer,New Alexis,Illinois,USA,Central,89046,32.12
+CUST-016729,Natalie Wise,51,Female,Consumer,Colemantown,Texas,USA,South,53291,34.72
+CUST-016734,Nancy Gallagher,39,Male,Consumer,Lake Virginia,Georgia,USA,South,52383,70.82
+CUST-016748,Sue Edwards,26,Female,Premium,Fisherstad,Northern Ireland,UK,West,60394,58.04
+CUST-016756,Amanda Lester,70,Female,Consumer,Valenzuelaview,Western Australia,Australia,West,74882,57.78
+CUST-016763,Tanya Williams,41,Male,Consumer,Villarrealland,Tamil Nadu,India,South,3023,70.22
+CUST-016795,Ashley Sandoval,69,Male,Consumer,Theresatown,Abu Dhabi,UAE,South,92399,21.65
+CUST-016801,Karen Cross,72,Male,Premium,Huntside,North Rhine,Germany,West,7972,61.84
+CUST-016815,Sean Gardner,24,Female,Premium,Douglaston,Florida,USA,South,82573,43.21
+CUST-016847,Rebecca Valenzuela,47,Female,Consumer,Marshallchester,Manitoba,Canada,Central,75767,18.99
+CUST-016856,Henry Kelly,26,Male,Premium,Charlesland,Wales,UK,West,51226,49.49
+CUST-016978,Brandon Hodges,50,Male,Consumer,New Lindaview,Manitoba,Canada,Central,6660,56.67
+CUST-017022,Jason Frank,70,Male,VIP,South Sheriton,Illinois,USA,Central,78220,62.52
+CUST-017081,Lisa Trujillo,53,Female,Business,South Ashleyburgh,British Columbia,Canada,West,75092,52.52
+CUST-017187,Maxwell Robertson,31,Female,Premium,Brianborough,Bavaria,Germany,South,43124,13.66
+CUST-017207,Jeffrey Clark,29,Female,Consumer,Williamchester,New South Wales,Australia,East,34246,78.46
+CUST-017220,Maria Cochran,71,Female,Business,South Taylor,Florida,USA,South,18181,14.73
+CUST-017243,Robert Thompson,72,Female,Premium,Port Theresamouth,England,UK,North,71163,45.79
+CUST-017267,Andrea Morales,34,Male,Premium,Merritttown,Wales,UK,West,4823,61.16
+CUST-017274,Caroline Duran,55,Female,Consumer,Jamesfort,Florida,USA,South,8413,49.87
+CUST-017275,Rebecca Hardin,25,Female,Consumer,Weaverburgh,Florida,USA,South,73233,62.4
+CUST-017276,Heather Newman,73,Male,Consumer,Robertsfort,Michigan,USA,Central,81786,32.42
+CUST-017316,Stephanie Rodriguez,27,Female,Consumer,Tammyside,California,USA,West,19361,79.99
+CUST-017323,Bonnie Chapman,64,Male,Consumer,New Angela,Abu Dhabi,UAE,South,47048,72.68
+CUST-017362,Samantha Gomez,29,Male,Premium,Danielland,Pennsylvania,USA,East,60233,75.88
+CUST-017443,Beverly Wallace,18,Female,Business,East Paultown,England,UK,North,7825,31.15
+CUST-017457,Jeffrey Suarez,72,Male,Consumer,Richardsonbury,Michigan,USA,Central,73749,19.02
+CUST-017460,Patricia Howell,52,Male,Consumer,Jessicahaven,Illinois,USA,Central,69934,27.18
+CUST-017511,Sarah White,56,Male,Premium,Port Jordan,Pennsylvania,USA,East,79162,21.14
+CUST-017523,Ryan Stewart,43,Male,Consumer,Jonathantown,Lower Saxony,Germany,North,13698,54.87
+CUST-017584,Sherri Jones,65,Male,Business,Leslieview,Illinois,USA,Central,8292,8.97
+CUST-017603,Paula Vega,54,Male,Consumer,Port Erinville,Lower Saxony,Germany,North,46957,69.9
+CUST-017634,William Sanders,55,Female,Consumer,East Kimberly,Texas,USA,South,46501,33.62
+CUST-017638,Erika Morrison,57,Male,Premium,Kevinborough,New South Wales,Australia,East,51230,49.69
+CUST-017679,Kimberly Hunter,54,Female,Premium,Maddoxbury,North Carolina,USA,South,48614,40.07
+CUST-017701,Eric Smith,41,Female,Consumer,Mcbrideport,Ohio,USA,Central,67870,18.72
+CUST-017723,Brian Johnson,32,Male,Business,Martinland,Ohio,USA,Central,53990,40.65
+CUST-017818,Craig Howard,61,Female,Premium,New Lisa,Georgia,USA,South,71357,76.22
+CUST-017830,David Andrade,29,Female,Consumer,Liville,Baden-Württemberg,Germany,South,10299,38.68
+CUST-017951,Robert Preston,49,Female,Business,Blackberg,Wales,UK,West,60664,35.15
+CUST-017963,Cynthia Hernandez,44,Female,Consumer,West Carrie,England,UK,North,19409,32.68
+CUST-017981,Elizabeth Young,60,Male,Consumer,Elizabethbury,Pennsylvania,USA,East,91829,71.02
+CUST-018064,Rachel Kidd,57,Male,Consumer,Lake Angelaville,Pennsylvania,USA,East,89741,65.68
+CUST-018088,Devon Thomas,73,Female,Consumer,Hendersonmouth,Pennsylvania,USA,East,92756,31.84
+CUST-018129,Ray Smith,33,Non-Binary,VIP,Mahoneyhaven,Texas,USA,South,33604,52.2
+CUST-018147,Elizabeth Cohen,36,Male,Premium,Jonesside,Baden-Württemberg,Germany,South,93597,36.31
+CUST-018156,Jennifer Richardson,70,Male,Business,Danielview,Florida,USA,South,6040,70.82
+CUST-018160,Jason Cox,57,Female,Consumer,South Blake,New York,USA,East,71644,69.9
+CUST-018194,Hannah Powell,38,Male,Consumer,Port Carlos,Northern Ireland,UK,West,27774,23.63
+CUST-018228,Victoria Wallace,39,Male,VIP,New Christopher,New York,USA,East,33019,47.28
+CUST-018245,Nathan Baker,40,Male,Premium,Edwardchester,Hesse,Germany,Central,96166,49.34
+CUST-018310,Kari Wright,58,Male,Premium,New Williammouth,North Carolina,USA,South,56385,45.32
+CUST-018380,Jeremiah Cook,69,Male,Consumer,Brianside,Florida,USA,South,6352,74.42
+CUST-018394,Jason Gallagher,45,Female,Business,Eugeneland,Tamil Nadu,India,South,12282,47.25
+CUST-018435,Regina Johnson,56,Male,VIP,Michelleport,Bavaria,Germany,South,10403,24.87
+CUST-018505,Kristin Moreno,23,Female,VIP,North Jon,Alberta,Canada,Central,9870,44.87
+CUST-018533,Lisa Sanford,44,Male,Consumer,North Brandon,England,UK,North,56202,52.12
+CUST-018625,Eric Williams,70,Male,Consumer,New Ronnietown,Dubai,UAE,South,89917,67.59
+CUST-018632,Julie Smith,67,Male,Consumer,Michaelborough,Illinois,USA,Central,56154,29.15
+CUST-018681,Aaron Wilson,49,Male,Consumer,Kaylachester,England,UK,North,44096,11.25
+CUST-018691,Alexander Walsh,28,Male,Premium,Carlsonbury,Georgia,USA,South,84829,41.34
+CUST-018693,Amy Garcia,51,Female,Business,South Daniel,British Columbia,Canada,West,10914,79.93
+CUST-018695,Marcia Navarro,18,Male,Premium,North Juliestad,Illinois,USA,Central,18141,51.02
+CUST-018768,Amy Matthews,27,Female,Premium,East Eric,Texas,USA,South,65904,79.04
+CUST-018772,Charles King,34,Female,Consumer,Perezmouth,Scotland,UK,North,96881,35.78
+CUST-018775,Samuel Pena,49,Female,VIP,West Brittanybury,Gujarat,India,West,96495,41.56
+CUST-018783,Michael Black,63,Male,Consumer,Elaineview,Florida,USA,South,9033,40.17
+CUST-018790,Eric Douglas,37,Female,Consumer,West Kelly,Ontario,Canada,East,49662,77.39
+CUST-018802,Dana Miller,38,Male,Premium,Samanthabury,England,UK,North,57016,52.89
+CUST-018805,Calvin Acevedo,70,Male,Business,Fernandezchester,Michigan,USA,Central,39189,11.97
+CUST-018854,Scott Williams,48,Female,VIP,West David,Hesse,Germany,Central,85503,41.75
+CUST-018890,Jacob Morris,49,Male,Consumer,Milesshire,Michigan,USA,Central,79827,52.83
+CUST-018913,Michael Chavez,41,Female,Business,East Jamesberg,South Australia,Australia,South,18910,72.66
+CUST-018922,Emily Hobbs,44,Non-Binary,Consumer,New Shaneshire,Florida,USA,South,52494,23.03
+CUST-018966,Jennifer Ellis,58,Female,Consumer,New Anne,North Rhine,Germany,West,96087,66.26
+CUST-018971,Sharon Lee,59,Male,Consumer,North Miguel,California,USA,West,41017,50.94
+CUST-018984,Zachary Rivera,23,Female,Consumer,South Margaret,Northern Ireland,UK,West,19267,49.27
+CUST-018992,William Lane,74,Male,Consumer,North Debra,Michigan,USA,Central,23439,58.97
+CUST-018998,Amy Martinez,37,Female,Consumer,South Debramouth,Ohio,USA,Central,60602,7.36
+CUST-019023,Jill Kelly,46,Female,Consumer,South Jessicaland,England,UK,North,17811,21.01
+CUST-019039,Antonio Brown,49,Female,Premium,Colemanton,Florida,USA,South,24697,23.1
+CUST-019099,Emily Kane,26,Female,Consumer,East Jennifermouth,Georgia,USA,South,75209,70.32
+CUST-019100,Sean Wells,45,Non-Binary,Consumer,South Matthewtown,Georgia,USA,South,70172,56.59
+CUST-019129,Sarah Sparks,20,Female,Consumer,Reneeton,Scotland,UK,North,85846,25.2
+CUST-019151,Benjamin Wong,43,Male,Consumer,North James,Texas,USA,South,67082,47.53
+CUST-019165,Amanda Moore,46,Male,Consumer,Lake Kimberly,Ajman,UAE,North,64620,20.47
+CUST-019198,Tyler Williams,37,Female,Premium,North Samanthamouth,Florida,USA,South,49946,42.23
+CUST-019230,Dawn Perez,64,Male,Consumer,South Deannabury,Ohio,USA,Central,61461,44.46
+CUST-019242,Thomas Hill,65,Female,Consumer,Anthonyville,Scotland,UK,North,8263,42.15
+CUST-019254,William Vargas,64,Female,Premium,Ashleyborough,Georgia,USA,South,35654,75.33
+CUST-019257,Jared Barton,37,Female,Premium,East Rebecca,North Carolina,USA,South,2034,67.37
+CUST-019297,Gabriella Jones,23,Male,Consumer,Lake Virginiamouth,New York,USA,East,11242,49.28
+CUST-019428,Karen Miller,42,Male,Consumer,Susanview,New York,USA,East,17111,42.17
+CUST-019507,Laura Price,66,Male,Consumer,New Emilyhaven,England,UK,North,25200,41.75
+CUST-019509,David Nguyen,71,Male,Consumer,Lynnchester,Illinois,USA,Central,73149,11.81
+CUST-019512,Krista Jackson,60,Male,Consumer,Grantside,Northern Ireland,UK,West,68870,42.85
+CUST-019557,Carl Key,36,Male,Premium,North Emily,Illinois,USA,Central,65663,66.57
+CUST-019621,Jaime Dennis,19,Female,Consumer,Christianstad,North Carolina,USA,South,64481,16.7
+CUST-019623,Peter Walker,50,Female,Consumer,North Davidland,North Rhine,Germany,West,31569,8.93
+CUST-019653,Bailey Luna,63,Female,Consumer,Paynemouth,Illinois,USA,Central,86998,68.32
+CUST-019685,Chad Moran,29,Female,Premium,West Jeffery,North Carolina,USA,South,4650,6.11
+CUST-019699,Robert Jenkins,19,Female,Consumer,Lake Jessica,Maharashtra,India,West,46842,69.08
+CUST-019708,Crystal Taylor,36,Female,Consumer,West Susanbury,Wales,UK,West,73573,27.19
+CUST-019715,Christina Ross,20,Female,Premium,West Alexander,Scotland,UK,North,32868,62.44
+CUST-019725,Laurie Chavez,35,Male,Consumer,Port Tammy,California,USA,West,49369,73.35
+CUST-019737,Cheryl Johnson,45,Male,Consumer,North Erinfort,Karnataka,India,South,59213,74.81
+CUST-019738,Misty Bailey,18,Female,Consumer,Wilsonmouth,Lower Saxony,Germany,North,35717,74.37
+CUST-019744,Timothy Moyer,32,Female,Consumer,West John,New South Wales,Australia,East,26225,18.44
+CUST-019767,Joel Perez,61,Female,Consumer,Shaunstad,Wales,UK,West,1669,44.27
+CUST-019778,Brianna Cochran,32,Female,Consumer,Lake Katrinahaven,Wales,UK,West,38095,70.04
+CUST-019789,Rachel Spears,21,Male,VIP,Williamshaven,California,USA,West,44030,39.4
+CUST-019797,Susan Cervantes,30,Male,Premium,Port Kyle,Florida,USA,South,58317,73.22
+CUST-019817,Anthony Lewis,25,Non-Binary,Consumer,Stevenstad,Manitoba,Canada,Central,69141,70.33
+CUST-019876,Jennifer Hernandez,50,Female,Consumer,New Nancy,Baden-Württemberg,Germany,South,91488,20.24
+CUST-019895,Amanda Hendrix,19,Female,VIP,Lake Elizabethshire,North Carolina,USA,South,51958,21.52
+CUST-019981,Michael Tucker,65,Male,Consumer,New Lori,Hesse,Germany,Central,94513,54.03
+CUST-020014,Gabriela Parsons,19,Male,Consumer,Port Tracy,Pennsylvania,USA,East,71378,79.03
+CUST-020021,Jessica Rogers,70,Male,Consumer,Lake Tammyfurt,Manitoba,Canada,Central,53773,43.76
+CUST-020062,John Hunt,31,Female,Premium,Christopherbury,California,USA,West,65675,6.63
+CUST-020065,Shannon Carroll,57,Female,Consumer,Lake Michaelfort,Baden-Württemberg,Germany,South,33107,17.15
+CUST-020080,Rachel Gay,68,Male,Premium,Hinesland,Alberta,Canada,Central,59024,61.91
+CUST-020097,Daniel Lamb,61,Male,Premium,North Jesseside,Baden-Württemberg,Germany,South,69143,72.18
+CUST-020116,Andrea Johnson,54,Male,Business,South Patrick,Ohio,USA,Central,33521,25.91
+CUST-020169,John Ramos,23,Male,Premium,New Victoria,North Carolina,USA,South,36716,61.87
+CUST-020174,Courtney Leach,67,Male,Consumer,Lozanoland,South Australia,Australia,South,94799,76.77
+CUST-020175,Jasmine Archer,19,Female,Consumer,Watkinsfurt,Pennsylvania,USA,East,96992,22.55
+CUST-020178,Linda Bender,25,Female,Premium,Heathershire,North Carolina,USA,South,76192,50.78
+CUST-020191,Justin Collins,42,Male,Consumer,New Amyport,Pennsylvania,USA,East,99173,51.6
+CUST-020197,Hector Steele,47,Male,Business,Ramseychester,North Carolina,USA,South,52735,5.73
+CUST-020199,Jillian Buck,34,Male,Consumer,Lake Ashley,Florida,USA,South,48673,65.51
+CUST-020210,Alexandra Cain,48,Female,Business,Nicholasborough,Maharashtra,India,West,94782,65.64
+CUST-020241,Kristina Phillips,56,Female,Premium,Jamesshire,New York,USA,East,56736,40.98
+CUST-020289,Laurie Maldonado,37,Non-Binary,Consumer,Scottstad,Quebec,Canada,East,50469,51.01
+CUST-020323,Emily Austin,19,Male,Consumer,Lake Anna,Ohio,USA,Central,49691,21.7
+CUST-020368,Miguel Farmer,71,Male,Consumer,Lake Larry,Ohio,USA,Central,44081,29.88
+CUST-020432,John Hardin,65,Male,Consumer,New Matthewfort,California,USA,West,71011,37.97
+CUST-020433,Terry Randolph,70,Male,Consumer,Jamesville,New York,USA,East,40722,49.61
+CUST-020449,Andrea Whitaker,74,Male,Consumer,New Timothy,Texas,USA,South,47642,75.9
+CUST-020474,Dustin Murray,47,Female,Premium,New Barbara,New York,USA,East,44301,72.48
+CUST-020488,Isaac Weeks,58,Male,Consumer,Nortonstad,Michigan,USA,Central,86423,49.13
+CUST-020513,Andrew Randall,38,Male,VIP,Marybury,North Rhine,Germany,West,29038,63.73
+CUST-020528,Ashley Richards,26,Male,Business,South Dennis,Georgia,USA,South,74749,50.59
+CUST-020550,David Wood,42,Male,Consumer,Sellersmouth,New York,USA,East,76832,76.23
+CUST-020599,Gregory Mercado,73,Female,Premium,Natalieland,Dubai,UAE,South,31137,10.73
+CUST-020612,Timothy Beck,27,Female,Premium,Rodriguezmouth,Pennsylvania,USA,East,8372,21.11
+CUST-020648,David Thompson,43,Male,Premium,Caitlinville,Lower Saxony,Germany,North,58418,72.03
+CUST-020653,Heather Cox,47,Male,Consumer,Michaelberg,British Columbia,Canada,West,43490,28.91
+CUST-020739,Christopher Campbell,56,Female,Consumer,North Kelly,Illinois,USA,Central,55204,53.75
+CUST-020748,Erin Clark,53,Female,Premium,North Kaylafurt,Pennsylvania,USA,East,80993,11.84
+CUST-020764,Kaitlyn Lopez,54,Male,VIP,Pamelaland,Ohio,USA,Central,50821,26.36
+CUST-020781,Christine Smith,46,Male,Consumer,Shaneville,Northern Ireland,UK,West,17218,37.37
+CUST-020801,Brett Rangel,47,Female,Consumer,Charlenefort,Pennsylvania,USA,East,38003,56.65
+CUST-020833,Thomas Simmons,44,Male,Consumer,Lake Robert,England,UK,North,48975,9.18
+CUST-020884,Timothy Miller,57,Male,VIP,East Brandonbury,Scotland,UK,North,27751,29.66
+CUST-020922,Caitlyn Jackson,18,Female,VIP,East Lori,Quebec,Canada,East,93868,40.79
+CUST-020928,Felicia Tran,59,Male,VIP,Troyborough,Abu Dhabi,UAE,South,16957,72.93
+CUST-020940,Helen Santos,33,Male,Consumer,North David,Northern Ireland,UK,West,14273,18.74
+CUST-020946,Stephanie Shepherd,66,Female,Premium,Port Virginia,Lower Saxony,Germany,North,11160,45.92
+CUST-020964,Amber Garner,71,Female,Premium,Garciaberg,England,UK,North,91055,35.59
+CUST-020978,Christopher Johnson,22,Male,Premium,North Aaron,Bavaria,Germany,South,46364,61.38
+CUST-021014,Brendan Ho,59,Male,Business,Haydenbury,Northern Ireland,UK,West,65640,65.27
+CUST-021031,Katherine Thomas,46,Female,Premium,Reginaland,Michigan,USA,Central,42073,34.32
+CUST-021068,Mary Mccall,59,Female,Consumer,Morrisonfort,England,UK,North,53001,49.61
+CUST-021091,Ryan Rocha,31,Male,Premium,Jasminetown,Northern Ireland,UK,West,81900,22.33
+CUST-021126,Elizabeth Dean,71,Male,Premium,Port Misty,California,USA,West,39273,20.21
+CUST-021133,Christopher Fox,61,Male,Consumer,Smithstad,Texas,USA,South,91137,36.58
+CUST-021212,Daniel Howard,59,Male,Consumer,Fergusonhaven,North Carolina,USA,South,84232,18.77
+CUST-021216,Marc Hanna,56,Male,Premium,East Mariestad,Pennsylvania,USA,East,29827,51.42
+CUST-021268,Angela Thompson,29,Female,Consumer,South Abigailport,California,USA,West,62011,69.5
+CUST-021295,Thomas Ortiz,28,Male,Consumer,Mannside,Lower Saxony,Germany,North,56030,57.68
+CUST-021317,Charles Young,55,Female,Consumer,West Heatherville,North Carolina,USA,South,8734,44.2
+CUST-021339,Laurie Cummings,66,Female,Consumer,New Brian,Ohio,USA,Central,40582,68.62
+CUST-021365,Nicole Anderson,49,Female,Premium,Chenside,Bavaria,Germany,South,98799,29.65
+CUST-021391,Kevin Walls,25,Male,Consumer,South Dakotaborough,South Australia,Australia,South,17365,67.04
+CUST-021417,Joshua White,26,Male,Consumer,New Cindyfurt,Florida,USA,South,49259,60.73
+CUST-021431,Jason Russell,50,Female,Premium,South Jennachester,Illinois,USA,Central,67415,36.96
+CUST-021437,Courtney Swanson,32,Male,VIP,Port Emma,Northern Ireland,UK,West,822,52.76
+CUST-021485,Katherine Rivera,24,Female,Consumer,Villegasland,Tamil Nadu,India,South,89886,31.42
+CUST-021499,Margaret Munoz,41,Male,Consumer,North Nathaniel,Texas,USA,South,89726,39.38
+CUST-021518,Holly Brown,59,Male,Premium,Heatherborough,Alberta,Canada,Central,70187,43.78
+CUST-021530,Alisha Palmer,20,Male,Consumer,Port Ashley,New York,USA,East,89468,74.86
+CUST-021555,Michael Leach,62,Female,Consumer,Markborough,England,UK,North,95649,70.47
+CUST-021565,Gregory Bowman,28,Male,Consumer,Martinezville,Wales,UK,West,81303,73.85
+CUST-021568,Harold Schwartz,54,Female,Business,Lake Courtneyshire,Baden-Württemberg,Germany,South,64462,66.94
+CUST-021577,Brandi Alvarez,20,Male,VIP,Port Taylor,California,USA,West,56760,56.36
+CUST-021623,Jodi Kim,31,Male,Consumer,Hudsonmouth,Scotland,UK,North,55474,21.15
+CUST-021647,Stephanie Velasquez,22,Female,Consumer,Port Phillip,New York,USA,East,25566,76.68
+CUST-021676,Jennifer Davis,42,Male,Consumer,Lowerytown,Florida,USA,South,84289,53.14
+CUST-021694,Emily Ingram,45,Female,Consumer,Gilmoreville,North Rhine,Germany,West,75113,37.55
+CUST-021733,Emily Castillo,56,Non-Binary,Business,Lake Derekmouth,Michigan,USA,Central,81346,78.19
+CUST-021735,Jill Barber,55,Male,Premium,Gibbston,New York,USA,East,51438,47.1
+CUST-021772,Brian Davis,32,Male,Consumer,Diazton,Florida,USA,South,41634,24.46
+CUST-021849,Tonya Johnson,60,Male,Consumer,Brownborough,Texas,USA,South,22387,63.63
+CUST-021862,Gregory Stewart,74,Male,Premium,North William,Queensland,Australia,North,95853,61.16
+CUST-021908,Elizabeth Hunt,63,Female,Consumer,Laurieland,Gujarat,India,West,45080,38.56
+CUST-021913,Tyrone Lloyd,53,Male,Consumer,Port John,Georgia,USA,South,36988,51.45
+CUST-021941,Eric Rosales,39,Female,Consumer,Wrightbury,Uttar Pradesh,India,North,79564,11.15
+CUST-021966,Juan Henson,29,Male,Consumer,Port Tonyaberg,North Carolina,USA,South,47973,25.66
+CUST-021967,Janet Kennedy,64,Male,VIP,Kaitlynbury,Northern Ireland,UK,West,44993,17.57
+CUST-021984,Shannon Crawford,30,Male,Consumer,Port Desiree,Texas,USA,South,81437,21.55
+CUST-021992,Angelica Giles,63,Female,Premium,East Johnmouth,Quebec,Canada,East,86762,31.29
+CUST-022064,Todd Bennett,43,Male,Consumer,Masonhaven,South Australia,Australia,South,12540,79.96
+CUST-022066,John Warren,69,Male,Consumer,Reedborough,California,USA,West,73026,33.91
+CUST-022081,Kristin Kelley,18,Male,Premium,North Alexton,Scotland,UK,North,83576,42.52
+CUST-022082,Andrew Schaefer,39,Male,Consumer,Johnport,Baden-Württemberg,Germany,South,97672,14.2
+CUST-022126,Sierra Gomez,60,Female,Premium,North Robertbury,Dubai,UAE,South,32563,45.64
+CUST-022157,Kristi Wilkins,21,Female,Consumer,South Bryce,Michigan,USA,Central,92326,72.4
+CUST-022164,Dennis Johnson,63,Female,Consumer,Lake Michealfurt,Hesse,Germany,Central,52553,62.9
+CUST-022182,Mandy Ray,72,Male,Consumer,Hannahmouth,California,USA,West,81961,57.68
+CUST-022184,Andrea Young,62,Male,Consumer,Ryanland,Pennsylvania,USA,East,76733,75.03
+CUST-022190,Justin Smith,38,Male,Premium,Kyleton,California,USA,West,72566,52.86
+CUST-022231,Frances Rogers,23,Female,Consumer,New Juan,Texas,USA,South,18592,49.32
+CUST-022267,Jason Bailey,57,Male,Premium,South Brian,Pennsylvania,USA,East,25968,20.11
+CUST-022275,Sharon Mitchell,70,Female,Consumer,New John,Michigan,USA,Central,44999,58.86
+CUST-022286,Kevin Fuller,70,Male,Consumer,Johnsonborough,Scotland,UK,North,89223,15.38
+CUST-022306,Rebecca Ellis,32,Male,Consumer,Lopezfurt,Ajman,UAE,North,76028,75.27
+CUST-022325,Melissa Macias,52,Female,Premium,Vazquezport,New York,USA,East,95141,49.85
+CUST-022332,Benjamin Williams,72,Male,Consumer,North Carolyn,New York,USA,East,40887,78.35
+CUST-022334,Zachary Lewis,69,Female,Consumer,Markville,Ohio,USA,Central,57365,60.68
+CUST-022336,Ryan Miller,36,Male,Consumer,Kimberlybury,California,USA,West,51331,27.71
+CUST-022364,Jason Lee,22,Male,Business,South James,Scotland,UK,North,39577,15.1
+CUST-022384,Danielle Jones,70,Male,Consumer,West James,Michigan,USA,Central,93548,46.89
+CUST-022454,John Brown,21,Female,Premium,West Mike,Georgia,USA,South,48911,64.37
+CUST-022485,Casey Rivera,74,Male,Consumer,Andersenmouth,Texas,USA,South,79189,32.14
+CUST-022488,Catherine Torres,37,Female,Consumer,South Janettown,Scotland,UK,North,82950,43.8
+CUST-022500,Diane Palmer,68,Female,Consumer,Kennethville,Queensland,Australia,North,99678,11.26
+CUST-022530,Diane Ho,51,Male,Business,Wrightmouth,Northern Ireland,UK,West,8925,56.44
+CUST-022548,Benjamin Fuentes,24,Male,Consumer,New Kristin,Michigan,USA,Central,12669,14.23
+CUST-022588,Timothy Underwood,27,Female,Consumer,East Coryland,Ohio,USA,Central,98644,29.89
+CUST-022589,Jessica Smith,43,Female,Premium,New Jillianhaven,Texas,USA,South,33699,32.18
+CUST-022592,Janet Lara,68,Female,Consumer,Port Timothyberg,Georgia,USA,South,94291,46.44
+CUST-022654,Brady Huber,54,Female,Consumer,Allisonfurt,Florida,USA,South,17782,13.31
+CUST-022678,Maureen Walker,28,Male,Consumer,North Michael,Scotland,UK,North,17333,14.73
+CUST-022684,Kenneth Leonard,42,Male,Business,Ralphfort,Georgia,USA,South,92751,13.8
+CUST-022744,Christopher Mcclure,73,Male,Premium,Mikefort,Pennsylvania,USA,East,16551,48.15
+CUST-022845,Troy Farrell,38,Female,VIP,Olsenville,Michigan,USA,Central,43642,7.91
+CUST-022878,Bruce Mclean,45,Male,Consumer,Danielsville,North Carolina,USA,South,54525,57.29
+CUST-022883,Lisa Sanders,74,Male,Premium,Bullockport,Alberta,Canada,Central,24470,29.72
+CUST-022884,Tyler Morales,49,Male,Consumer,New David,Illinois,USA,Central,97508,9.52
+CUST-022899,Catherine James,35,Male,VIP,Castroland,Georgia,USA,South,46296,18.49
+CUST-022910,Taylor Lee,56,Male,Consumer,Bettytown,Georgia,USA,South,48021,38.46
+CUST-022924,Brett Baldwin,44,Male,Consumer,Smithside,England,UK,North,70916,30.55
+CUST-022946,Michael Cooper,62,Male,Consumer,Daisymouth,Texas,USA,South,36989,55.09
+CUST-022952,Jennifer Jones,31,Male,Consumer,Port Randyfort,Florida,USA,South,94570,65.97
+CUST-022971,Jasmine Chapman,42,Male,Consumer,New Michelle,Ohio,USA,Central,9502,60.29
+CUST-022974,John Suarez,70,Female,Consumer,North Eric,California,USA,West,17893,24.31
+CUST-022987,James Gregory,57,Female,Premium,Krauseshire,Baden-Württemberg,Germany,South,83026,30.02
+CUST-023001,Stephanie Moore,54,Male,Consumer,West Lisa,Florida,USA,South,36203,33.24
+CUST-023031,Catherine Martinez,56,Male,Business,New David,Quebec,Canada,East,64676,52.56
+CUST-023092,Heather Lee,73,Female,Consumer,Janicetown,Texas,USA,South,77231,27.77
+CUST-023176,Amy Chase,65,Female,Consumer,Olsonstad,Georgia,USA,South,42930,75.61
+CUST-023183,John Mcbride,66,Female,Premium,Toddmouth,Texas,USA,South,79684,9.02
+CUST-023195,Leonard Vaughan,46,Female,Consumer,Matthewsbury,Hesse,Germany,Central,83242,39.7
+CUST-023250,Kelly Reynolds,29,Male,Consumer,Lake Paula,Northern Ireland,UK,West,6819,16.82
+CUST-023261,Stacy Rice,71,Male,Consumer,Thomasview,Northern Ireland,UK,West,93592,6.18
+CUST-023262,Courtney Payne,46,Female,Consumer,North Lindsey,Alberta,Canada,Central,69179,56.32
+CUST-023273,James Thompson,46,Female,Consumer,East Michael,North Carolina,USA,South,32254,71.74
+CUST-023299,Howard King,66,Female,Premium,South Davidton,Northern Ireland,UK,West,31394,54.99
+CUST-023326,Carol Wells,38,Male,Consumer,Lake Elizabethside,Illinois,USA,Central,24619,35.0
+CUST-023371,Andrew Garner,41,Female,Consumer,Kevinbury,Dubai,UAE,South,12781,62.72
+CUST-023400,Sandra Austin,61,Female,Premium,Jamesside,Gujarat,India,West,70472,66.96
+CUST-023448,Dennis Robertson,53,Female,VIP,Bakerport,England,UK,North,14083,43.83
+CUST-023466,Donna Chapman,21,Male,Consumer,Port Aaron,Scotland,UK,North,78997,34.57
+CUST-023527,Kaitlyn Sherman,39,Female,VIP,West William,British Columbia,Canada,West,61884,11.61
+CUST-023572,Debra Willis,32,Female,Consumer,Michaelburgh,Pennsylvania,USA,East,60559,12.63
+CUST-023596,Charlotte Vaughan,72,Female,Business,Wilsonfurt,Pennsylvania,USA,East,59068,58.09
+CUST-023604,Sarah Cooper,67,Female,Consumer,Michaelfort,Ohio,USA,Central,33181,33.96
+CUST-023642,Andrew Knight,54,Male,Consumer,Lake Timothy,Ohio,USA,Central,45747,49.74
+CUST-023788,Jamie Johnson,52,Female,Business,Port Donna,Wales,UK,West,61511,51.15
+CUST-023832,Tony Patterson,38,Female,Consumer,West Johnhaven,Northern Ireland,UK,West,93658,18.43
+CUST-023863,Catherine Robertson,56,Female,VIP,New Travis,Baden-Württemberg,Germany,South,48362,69.3
+CUST-023887,Donna Morris,26,Female,Premium,West Thomasville,North Carolina,USA,South,53925,72.99
+CUST-023893,Brian Burton,73,Male,Premium,Davisberg,Northern Ireland,UK,West,15061,18.12
+CUST-023903,John Kramer,19,Female,Consumer,Hopkinsburgh,North Rhine,Germany,West,86921,57.71
+CUST-023916,Jill Barr,35,Female,Premium,North Amanda,Georgia,USA,South,66754,56.99
+CUST-023921,Samantha Perkins,41,Female,Consumer,Bennettborough,Ohio,USA,Central,47445,63.83
+CUST-023944,Angela Herman,57,Male,Premium,Virginiachester,North Carolina,USA,South,86206,75.08
+CUST-023962,Michael Grant,56,Female,Premium,Port Jennifer,Western Australia,Australia,West,34219,16.23
+CUST-023966,Vanessa Osborne,65,Non-Binary,Consumer,Bellfurt,Pennsylvania,USA,East,95977,28.08
+CUST-023968,Jason Lang,18,Female,Business,Lake Laurashire,Texas,USA,South,72425,60.26
+CUST-024002,Adrian Rodriguez,63,Female,Consumer,East Roberto,Wales,UK,West,32681,20.01
+CUST-024008,Brittany Rodgers,25,Male,Consumer,East Johnburgh,Lower Saxony,Germany,North,64773,49.57
+CUST-024026,Emily Parker,18,Male,Premium,Hernandezview,Michigan,USA,Central,24894,19.16
+CUST-024064,Jaime Collins,57,Female,Premium,Kimburgh,Wales,UK,West,16462,41.15
+CUST-024089,Luke Malone,47,Female,Premium,Andremouth,Northern Ireland,UK,West,12082,30.12
+CUST-024110,Craig Martin,28,Female,Consumer,Christopherton,New York,USA,East,15777,48.09
+CUST-024111,Christina Clayton,48,Male,Consumer,North Charles,Bavaria,Germany,South,16017,59.61
+CUST-024116,Mckenzie Rodriguez,70,Female,Consumer,Port Joshua,England,UK,North,56440,52.72
+CUST-024152,Corey Durham,62,Female,Consumer,North Michaela,Sharjah,UAE,North,24652,46.69
+CUST-024169,Scott Nichols,61,Male,Consumer,West Davidfort,Pennsylvania,USA,East,93970,33.38
+CUST-024224,Lori Woods,64,Female,Consumer,Schultzborough,Victoria,Australia,South,98216,61.47
+CUST-024284,William Lopez,47,Non-Binary,VIP,Port Justinbury,Wales,UK,West,95588,17.22
+CUST-024315,Harold Long,20,Female,Premium,East Adrienneville,Karnataka,India,South,45583,18.49
+CUST-024326,Elizabeth Steele,52,Female,Consumer,Port Kristenfurt,Maharashtra,India,West,49660,16.85
+CUST-024348,Christopher Savage,34,Female,Consumer,West Danielbury,Georgia,USA,South,71743,60.39
+CUST-024361,Justin Collins,19,Male,VIP,New Jasonfort,Illinois,USA,Central,61105,47.17
+CUST-024364,Andrea Gonzalez,52,Male,Business,West James,Georgia,USA,South,90074,55.92
+CUST-024377,Vanessa White,38,Female,Premium,Harringtonside,Michigan,USA,Central,57166,71.68
+CUST-024396,Jack Kennedy,60,Female,Consumer,Port Dawnborough,Ohio,USA,Central,27980,49.7
+CUST-024456,Stephanie Martinez,66,Female,Consumer,Dominguezburgh,Northern Ireland,UK,West,21064,15.61
+CUST-024457,Anita Fernandez,68,Female,Consumer,South Michaelchester,California,USA,West,7345,30.28
+CUST-024467,Mallory Lopez,44,Female,Consumer,East Justinburgh,Ontario,Canada,East,80830,34.5
+CUST-024468,Randy Adams,42,Female,Business,Lauratown,North Rhine,Germany,West,44357,40.44
+CUST-024496,Elizabeth Villarreal,68,Male,Consumer,Port Brandonberg,Florida,USA,South,52330,43.97
+CUST-024505,Kelly Taylor,29,Female,Premium,Lake Taylorburgh,Western Australia,Australia,West,58662,51.23
+CUST-024524,Ashlee Medina,35,Male,VIP,North Lynn,Texas,USA,South,32561,50.52
+CUST-024559,Nicole Harris,55,Male,VIP,Port Adrian,Pennsylvania,USA,East,15143,8.24
+CUST-024576,Kyle Sanders,37,Male,Business,Lake Sabrinafort,Georgia,USA,South,89418,21.71
+CUST-024610,Sierra Diaz,74,Female,Premium,Marquezchester,Quebec,Canada,East,75480,72.92
+CUST-024612,Sarah Smith,36,Female,Consumer,Murrayport,Alberta,Canada,Central,56488,44.84
+CUST-024666,Zachary Torres,64,Female,Consumer,North Paul,Florida,USA,South,42825,38.36
+CUST-024702,Lisa Thompson,39,Female,Consumer,Salasside,Michigan,USA,Central,85811,49.28
+CUST-024704,Tracey Galloway,52,Female,Consumer,East Taraville,California,USA,West,1083,5.77
+CUST-024734,Carolyn Mcbride,40,Male,Premium,Whitefort,Victoria,Australia,South,97567,76.24
+CUST-024819,James Richardson,32,Male,Business,South Alexander,North Carolina,USA,South,51058,60.55
+CUST-024852,Sean Woodward,24,Female,Consumer,Port Dylan,Wales,UK,West,93356,41.72
+CUST-024855,Brian Mason,49,Female,Consumer,South Omar,California,USA,West,69208,52.26
+CUST-024887,Sara Walker,40,Male,Consumer,South Sharonmouth,Wales,UK,West,9261,20.25
+CUST-024967,Stephanie Ball,68,Female,Consumer,Brandonfort,New York,USA,East,78170,70.6
+CUST-024975,Christine Chan,51,Male,Premium,Harryton,Illinois,USA,Central,1757,6.3
+CUST-024983,Thomas Spencer,21,Male,Premium,Bowmanburgh,Western Australia,Australia,West,40827,45.89
